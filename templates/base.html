@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ site.description }}">
+  <meta name="theme-color" content="#17324d">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; base-uri 'none'; object-src 'none'; form-action 'none'; script-src 'self'; style-src 'self'; img-src 'self' data:; font-src 'self'; connect-src 'self'; manifest-src 'self'">
+  <title>{% block title %}{{ site.name }}{% endblock %}</title>
+  <link rel="icon" href="{{ base_url }}assets/favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="{{ base_url }}site.webmanifest">
+  <link rel="stylesheet" href="{{ base_url }}assets/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">跳到正文</a>
+  <div class="paper-grain" aria-hidden="true"></div>
+  <header class="site-header">
+    <a class="brand" href="{{ base_url }}">
+      <span class="brand-mark" aria-hidden="true">词</span>
+      <span>
+        <strong>{{ site.name }}</strong>
+        <small>{{ site.eyebrow }}</small>
+      </span>
+    </a>
+    <nav aria-label="主导航">
+      <a href="{{ base_url }}">词汇卡</a>
+      <a href="{{ base_url }}vocabulary-review.html">复习方法</a>
+    </nav>
+  </header>
+  <main id="main">{% block content %}{% endblock %}</main>
+  <footer class="site-footer">
+    <p>公开学习子集 · 私有 Vault 不参与网页构建</p>
+    <p>Built as a quiet place for deliberate practice.</p>
+  </footer>
+  <script src="{{ base_url }}assets/app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block title %}{{ note.title }} · {{ site.name }}{% endblock %}
+{% block content %}
+<article class="note-shell {% if note.kind == 'vocabulary' %}vocabulary-note{% endif %}">
+  <a class="back-link" href="{{ base_url }}"><span aria-hidden="true">←</span> 返回词汇索引</a>
+  {% if note.kind == 'vocabulary' %}
+  <header class="note-masthead">
+    <p class="eyebrow">LEXICON ENTRY · {{ note.metadata.study_mode|upper }}</p>
+    <h1>{{ note.title }}</h1>
+    <div class="note-meta">
+      <span>{{ note.metadata.pos|map('replace', '_', ' ')|join(' · ') }}</span>
+      <span>{{ note.metadata.forms|join(' / ') }}</span>
+      <span>{{ {'needs_context':'待补原句','complete':'语境完整'}.get(note.metadata.context_status, note.metadata.context_status) }}</span>
+    </div>
+  </header>
+  {% endif %}
+  <div class="prose">{{ note.html|safe }}</div>
+  {% if note.kind == 'vocabulary' %}
+  <nav class="study-rail" aria-label="词卡学习动作">
+    <button type="button" class="rail-button" data-reveal>先遮住释义</button>
+    <button type="button" class="rail-button" id="random-word">下一张随机卡</button>
+  </nav>
+  {% endif %}
+</article>
+{% endblock %}

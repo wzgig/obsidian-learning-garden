@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Lexicon Garden</title>
+  <rect x="4" y="4" width="56" height="56" rx="16" fill="#17324d"/>
+  <path d="M32 25c-4.8-4.1-10.7-5.4-18-3.7v25.3c7.3-1.7 13.2-.4 18 3.7V25Z" fill="#f2eadb"/>
+  <path d="M32 25c4.8-4.1 10.7-5.4 18-3.7v25.3c-7.3-1.7-13.2-.4-18 3.7V25Z" fill="#fffaf0"/>
+  <path d="M32 24v26" stroke="#d16b4f" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M32 22v-7" stroke="#d8a23a" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M31.5 17.5c-4.7.2-7.2-1.8-7.5-5.8 4.6-.2 7.1 1.7 7.5 5.8Z" fill="#d8a23a"/>
+  <path d="M32.5 17.5c4.7.2 7.2-1.8 7.5-5.8-4.6-.2-7.1 1.7-7.5 5.8Z" fill="#e3bb58"/>
+</svg>

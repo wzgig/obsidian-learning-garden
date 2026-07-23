@@ -1,71 +1,125 @@
 {% extends "base.html" %}
 {% block title %}{{ site.name }} · 双语词汇学习花园{% endblock %}
 {% block content %}
-<section class="hero">
+<section class="hero" aria-labelledby="hero-title">
   <div class="hero-copy">
     <p class="eyebrow">{{ site.eyebrow }}</p>
-    <h1>在词与词之间，<br><em>建立可以调用的语言。</em></h1>
-    <p class="lede">{{ site.tagline }}这里不追求把词典搬上网，而是把原形、语境、搭配与主动使用连成一条学习路径。</p>
+    <h1 id="hero-title">把遇见，<br><span>变成会用。</span></h1>
+    <p class="lede">{{ site.tagline }} 每张卡都从原形出发，连接变形、双语解释、应用场景与复习信号。</p>
     <div class="hero-actions">
-      <button class="primary-button" id="random-word" type="button">抽一张词卡</button>
-      <a class="text-link" href="{{ base_url }}vocabulary-review.html">查看复习方法 <span aria-hidden="true">→</span></a>
+      <button class="primary-button pressable" type="button" data-random-word>抽一张词卡</button>
+      <a class="secondary-button pressable" href="#library">搜索全部词汇</a>
     </div>
   </div>
-  <aside class="hero-ledger" aria-label="词库统计">
-    <span class="ledger-label">CURRENT LEDGER</span>
-    <dl>
-      <div><dt>{{ card_count }}</dt><dd>canonical cards</dd></div>
-      <div><dt>{{ production_count }}</dt><dd>主动产出词</dd></div>
-      <div><dt>{{ phrase_count }}</dt><dd>整块短语</dd></div>
-      <div><dt>{{ needs_context_count }}</dt><dd>待补原句</dd></div>
+  <aside class="hero-dashboard" aria-label="词库学习信号">
+    <div class="dashboard-heading">
+      <p class="eyebrow">LEARNING SIGNALS</p>
+      <p>优先级会随重复遇见与再次遗忘上升。</p>
+    </div>
+    <dl class="metric-grid">
+      <div>
+        <dt>{{ card_count }}</dt>
+        <dd>规范词卡</dd>
+      </div>
+      <div>
+        <dt>{{ repeat_card_count }}</dt>
+        <dd>重复遇见</dd>
+      </div>
+      <div>
+        <dt>{{ lapse_card_count }}</dt>
+        <dd>再次遗忘</dd>
+      </div>
+      <div class="metric-focus">
+        <dt>{{ focus_card_count }}</dt>
+        <dd>优先复习</dd>
+      </div>
     </dl>
   </aside>
 </section>
 
-<section class="library" aria-labelledby="library-title">
-  <div class="section-heading">
+<section class="library" id="library" data-library aria-labelledby="library-title">
+  <header class="section-heading">
     <div>
       <p class="eyebrow">THE LIVING INDEX</p>
-      <h2 id="library-title">词汇卡片</h2>
+      <h2 id="library-title">词汇库</h2>
     </div>
-    <p><span id="visible-count">{{ card_count }}</span> / {{ card_count }} 张可见</p>
+    <p>一词一卡，所有变形归到同一个可检索入口。</p>
+  </header>
+
+  <div class="control-surface" role="search" aria-label="搜索和筛选词汇卡">
+    <div class="search-row">
+      <div class="search-box">
+        <span class="search-icon" aria-hidden="true"></span>
+        <label class="visually-hidden" for="search-input">搜索词汇</label>
+        <input id="search-input" name="q" type="search" placeholder="例如：bear、见证或 influence…" autocomplete="off" autocapitalize="off" spellcheck="false" aria-controls="word-grid" aria-describedby="search-shortcuts">
+        <button class="clear-search pressable" type="button" data-clear-search hidden aria-label="清除搜索">清除</button>
+        <kbd aria-hidden="true">Ctrl&nbsp;K</kbd>
+      </div>
+      <label class="sort-control">
+        <span>排序</span>
+        <select id="sort-select" name="sort" aria-controls="word-grid">
+          <option value="priority">复习优先</option>
+          <option value="encounters">遇见次数</option>
+          <option value="lapses">遗忘次数</option>
+          <option value="az">字母 A–Z</option>
+        </select>
+      </label>
+    </div>
+
+    <div class="filter-row">
+      <div class="filters" role="group" aria-label="按学习方式筛选">
+        <button class="filter pressable is-active" type="button" data-filter="all" aria-pressed="true">全部</button>
+        <button class="filter pressable" type="button" data-filter="production" aria-pressed="false">主动产出</button>
+        <button class="filter pressable" type="button" data-filter="recognition" aria-pressed="false">阅读识别</button>
+        <button class="filter pressable" type="button" data-filter="phrase" aria-pressed="false">固定短语</button>
+      </div>
+      <div class="attention-filters" role="group" aria-label="按学习信号筛选">
+        <button class="signal-filter pressable" type="button" data-signal="repeat" aria-pressed="false">重复遇见</button>
+        <button class="signal-filter pressable" type="button" data-signal="lapse" aria-pressed="false">曾经遗忘</button>
+        <button class="signal-filter pressable" type="button" data-signal="focus" aria-pressed="false">优先复习</button>
+      </div>
+    </div>
+
+    <div class="result-line">
+      <p id="result-status" role="status" aria-live="polite"><strong id="visible-count">{{ card_count }}</strong> / {{ card_count }} 张可见</p>
+      <p id="search-shortcuts"><kbd translate="no">Ctrl&nbsp;K</kbd> 搜索 · 聚焦词卡后用方向键浏览</p>
+    </div>
   </div>
 
-  <div class="toolbar" role="search">
-    <label class="search-box">
-      <span>搜索</span>
-      <input id="search-input" type="search" placeholder="原形、变形、中文或英英释义…" autocomplete="off">
-      <kbd>/</kbd>
-    </label>
-    <div class="filters" aria-label="按学习方式筛选">
-      <button class="filter is-active" type="button" data-filter="all">全部</button>
-      <button class="filter" type="button" data-filter="production">主动产出</button>
-      <button class="filter" type="button" data-filter="recognition">阅读识别</button>
-      <button class="filter" type="button" data-filter="phrase">固定短语</button>
-    </div>
-  </div>
-
-  <div class="word-grid" id="word-grid">
+  <div class="word-grid" id="word-grid" role="list">
     {% for card in cards %}
-    <article class="word-card" data-mode="{{ card.metadata.study_mode }}" data-search="{{ (card.title ~ ' ' ~ (card.metadata.forms|join(' ')) ~ ' ' ~ card.summary_cn ~ ' ' ~ card.summary_en)|lower }}">
-      <a href="{{ card.url }}" aria-label="打开 {{ card.title }} 词卡">
+    <article class="word-card priority-{{ card.study.priority_key }}" role="listitem" data-card data-slug="{{ card.slug }}" data-title="{{ card.title|lower }}" data-mode="{{ card.metadata.study_mode }}" data-encounters="{{ card.study.encounter_count }}" data-lapses="{{ card.study.lapse_count }}" data-priority="{{ card.study.priority_rank }}" data-priority-score="{{ card.study.priority_score }}" data-focus="{{ 'true' if card.study.is_focus else 'false' }}" data-search="{{ (card.title ~ ' ' ~ card.metadata.get('lemma', '') ~ ' ' ~ (card.metadata.get('forms', [])|join(' ')) ~ ' ' ~ (card.metadata.get('pos', [])|join(' ')) ~ ' ' ~ card.display_cn ~ ' ' ~ card.summary_cn ~ ' ' ~ card.summary_en)|lower }}">
+      <a class="word-card-link pressable" data-card-link href="{{ card.url }}" aria-label="打开 {{ card.title }} 词卡">
         <div class="card-topline">
           <span class="mode mode-{{ card.metadata.study_mode }}">{{ {'production':'主动产出','recognition':'阅读识别','phrase':'固定短语'}.get(card.metadata.study_mode, card.metadata.study_mode) }}</span>
-          <span class="pos">{{ card.metadata.pos|map('replace', '_', ' ')|join(' · ') }}</span>
+          {% if card.study.is_focus %}
+          <span class="priority-badge">{{ card.study.priority_label }}{% if card.study.priority_score %} · {{ card.study.priority_score }}{% endif %}</span>
+          {% endif %}
         </div>
-        <h3>{{ card.title }}</h3>
-        {% if card.metadata.forms %}<p class="forms">遇见形式 · {{ card.metadata.forms|join(' / ') }}</p>{% endif %}
-        <p class="cn-definition">{{ card.summary_cn or '打开词卡查看中文释义' }}</p>
-        <p class="en-definition">{{ card.summary_en or 'Open the card for a learner-friendly explanation.' }}</p>
-        <span class="card-arrow" aria-hidden="true">↗</span>
+        <div class="card-word">
+          <h3 lang="en" translate="no">{{ card.title }}</h3>
+          <p class="pos" translate="no">{{ card.metadata.get('pos', [])|map('replace', '_', ' ')|join(' · ') }}</p>
+        </div>
+        {% if card.metadata.get('forms') %}<p class="forms">遇见形式 · <span translate="no">{{ card.metadata.forms|join(' / ') }}</span></p>{% endif %}
+        <p class="cn-definition">{{ card.display_cn or '打开词卡查看中文释义' }}</p>
+        <p class="en-definition" lang="en">{{ card.summary_en or 'Open the card for a learner-friendly explanation.' }}</p>
+        <footer class="card-footer">
+          <span>遇见 {{ card.study.encounter_count }}</span>
+          {% if card.study.lapse_count %}<span class="lapse-signal">遗忘 {{ card.study.lapse_count }}</span>{% endif %}
+          {% if card.study.next_review %}<time datetime="{{ card.study.next_review }}" data-format-date data-date-prefix="复习">复习 {{ card.study.next_review }}</time>{% endif %}
+          <span class="card-arrow" aria-hidden="true">↗</span>
+        </footer>
       </a>
     </article>
     {% endfor %}
   </div>
+
   <div class="empty-state" id="empty-state" hidden>
-    <span>∅</span>
+    <span aria-hidden="true">⌕</span>
     <h3>没有找到匹配词条</h3>
-    <p>换一个词形、中文意思或学习方式试试。</p>
+    <p>试试原形、遇见形式、中文意思，或清除一个学习信号筛选。</p>
+    <button class="secondary-button pressable" type="button" data-reset-library>重置搜索与筛选</button>
   </div>
+  <noscript><p class="noscript-note">当前浏览器未启用 JavaScript；词卡仍可逐张打开，但搜索和排序不可用。</p></noscript>
 </section>
 {% endblock %}

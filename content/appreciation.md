@@ -21,7 +21,7 @@
 
 ## 例句
 
-- **语境例句**：待补——原始批次未记录原句。
+- **真题语境**：已核对完整真题原句，见“来源与语境”的私有区块；公开站仅保留来源标签。
 - **原创例句 1**：I expressed my appreciation for her detailed feedback.
   中文：我对她详尽的反馈表达了感谢。
 - **原创例句 2**：The project gave me a deeper appreciation of data quality.
@@ -31,7 +31,7 @@
 
 - **阅读识别**：感谢信、艺术评论、学术理解和金融语境中常见。
 - **写作或口语**：对人或帮助表示感谢常用 appreciation for；对事物的理解常用 appreciation of。
-- **易错点**：appreciation 多义；原始批次没有语境，不能自动选成“感激”或“升值”。
+- **易错点**：appreciation 可表示“感激、欣赏、理解、升值”；真题 appreciation of beauty 指“对美的理解与欣赏”，不是“感激”或“升值”。
 
 ## 主动回忆
 
@@ -41,7 +41,10 @@
 
 ## 来源与语境
 
-- 捕获批次：原始捕获
-- 原始形式：appreciation
-- 原句与出处：原始批次未记录原句；本卡仅列常见义，重点义项待补语境。
+- 原卷：2026年全国硕士研究生招生考试英语（一）真题
+- 捕获批次：2026-07-21 生词与语境
+- 遇见 1：Section I / Use of English · 第19题 B 选项 · 正确项 · 原题句 p.1, p.2 · 选项 p.2 · 卷面形式 `appreciation`
+
+
+- 公开边界：以上完整原句仅保留在私有 Vault；公开导出器会强制剥离该区块。
 - 参考：[Wiktionary](https://en.wiktionary.org/wiki/appreciation) · [Merriam-Webster](https://www.merriam-webster.com/dictionary/appreciation)

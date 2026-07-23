@@ -10,7 +10,15 @@ python build.py --output dist --base-url /
 python -m http.server 8000 --directory dist
 ```
 
-浏览器打开 <http://127.0.0.1:8000/>。成功信号：首页显示词卡数量，搜索、学习方式筛选、随机词卡和详情页均可使用。
+浏览器打开 <http://127.0.0.1:8000/>。成功信号：首页显示词卡数量与学习信号，搜索、学习方式筛选、重复遇见/遗忘筛选、优先级排序、随机词卡、深浅色主题和详情页均可使用。
+
+首页键盘操作：
+
+- `Ctrl+K` 或 `⌘ K`：聚焦搜索框。
+- 聚焦一张词卡后，使用方向键在当前可见词卡之间移动。
+- `Esc`：清空当前搜索词。
+
+搜索和筛选状态会写入 URL 查询参数，刷新页面或分享链接后仍可恢复；主题选择仅保存在浏览器本地。
 
 `--base-url` 必须与部署路径一致：根域名使用 `/`，项目站点使用 `/仓库名/`。GitHub Actions 会从 Pages 配置读取实际路径，因此同时兼容项目站点、`<owner>.github.io` 仓库与自定义域名。
 
@@ -29,15 +37,15 @@ powershell -NoProfile -ExecutionPolicy Bypass -File _System\Scripts\Export-Publi
 powershell -NoProfile -ExecutionPolicy Bypass -File _System\Scripts\Export-PublicSite.ps1 -OutputPath "D:\path\to\public-repo" -Build -BaseUrl "/repository-name/"
 ```
 
-成功信号：检查结果包含 `"ok": true`，构建后的 `dist/` 中存在首页、词卡详情、搜索索引与 `assets/favicon.svg`。
+成功信号：检查结果包含 `"ok": true`，构建后的 `dist/` 中存在首页、词卡详情、搜索索引与 `assets/favicon.svg`。公开构建器还会二次移除 `PRIVATE-SOURCE-CONTEXT` 区块；标记不成对时会拒绝构建，避免私有原句进入页面或搜索索引。
 
 ## 架构
 
 - `content/manifest.json`：公开清单，不含私有源路径。
 - `content/*.md`：经过 Wikilink 与隐私净化的公开正文。
-- `build.py`：静态构建器，禁用原始 HTML。
-- `templates/`：页面模板。
-- `assets/`：样式与交互。
+- `build.py`：静态构建器，禁用原始 HTML，生成学习信号与隐私净化后的搜索索引。
+- `templates/`：语义化页面模板，支持词卡优先级、重复遇见与遗忘状态。
+- `assets/`：无第三方 CDN 的原生 CSS/JavaScript，包含响应式布局、深浅色、键盘操作和 reduced-motion / reduced-transparency 适配。
 - `.github/workflows/deploy-pages.yml`：GitHub Pages 构建与部署。
 
 内容更新应从私有 Vault 重新导出，不要把私人笔记直接复制到本仓库。导出器只复制明确列入白名单的站点源文件，并在写入公开仓库前扫描完整暂存树；已有公开仓库的 `.git/` 会保留，其余内容会由新导出结果完整替换，避免陈旧文件残留。

@@ -21,7 +21,7 @@
 
 ## 例句
 
-- **语境例句**：待补——原始批次未记录原句。
+- **真题语境**：已核对完整真题原句，见“来源与语境”的私有区块；公开站仅保留来源标签。
 - **原创例句 1**：Apart from two broken links, the health check passed.
   中文：除了两个失效链接外，健康检查通过了。
 - **原创例句 2**：Apart from reading, she practices speaking every evening.
@@ -41,7 +41,10 @@
 
 ## 来源与语境
 
-- 捕获批次：原始捕获
-- 原始形式：apart from
-- 原句与出处：原始批次未记录原句；无法判断当时是“排除”还是“补充”义。
+- 原卷：2026年全国硕士研究生招生考试英语（一）真题
+- 捕获批次：2026-07-21 生词与语境
+- 遇见 1：Section I / Use of English · 第18题 A 选项 · 干扰项 · 原题句 p.1 · 选项 p.2 · 卷面形式 `apart from`
+
+
+- 公开边界：以上完整原句仅保留在私有 Vault；公开导出器会强制剥离该区块。
 - 参考：[Wiktionary](https://en.wiktionary.org/wiki/apart_from) · [Merriam-Webster](https://www.merriam-webster.com/dictionary/apart%20from)

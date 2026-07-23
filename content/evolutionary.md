@@ -21,7 +21,7 @@
 
 ## 例句
 
-> 原始捕获没有保留完整句子，以下两句均为原创学习例句，不是原始出处。
+> 完整真题原句与位置见文末私有来源区块；以下两句仍为原创学习例句。
 
 - **原创例句 1**：Genome data offers new insight into the evolutionary history of equids.\
   中文：基因组数据为马科动物的进化史提供了新的认识。
@@ -42,7 +42,10 @@
 
 ## 来源与语境
 
-- 捕获批次：2026-07-21 生词记录
-- 原始形式：evolutionary
-- 原句与出处：原始批次只记录了词形，没有保存原句、文章标题或 URL；生物义还是广义渐进发展待确认。
+- 原卷：2026年全国硕士研究生招生考试英语（一）真题
+- 捕获批次：2026-07-21 生词与语境
+- 遇见 1：Section II / Part A / Text 1 · p.3 · 正文 · 卷面形式 `evolutionary`
+
+
+- 公开边界：以上完整原句仅保留在私有 Vault；公开导出器会强制剥离该区块。
 - 参考：[Wiktionary](https://en.wiktionary.org/wiki/evolutionary) · [Merriam-Webster](https://www.merriam-webster.com/dictionary/evolutionary)

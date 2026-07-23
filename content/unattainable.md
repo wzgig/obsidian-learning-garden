@@ -20,7 +20,7 @@
 
 ## 例句
 
-- **语境例句**：待补——原始批次未记录原句。
+- **真题语境**：已核对完整真题原句，见“来源与语境”的私有区块；公开站仅保留来源标签。
 - **原创例句 1**：A perfect score may feel unattainable without a clear study plan.
   中文：没有清晰学习计划时，满分可能显得遥不可及。
 - **原创例句 2**：The original deadline became unattainable after the data source failed.
@@ -40,7 +40,10 @@
 
 ## 来源与语境
 
-- 捕获批次：原始捕获
-- 原始形式：unattainable
-- 原句与出处：原始批次未记录原句；具体无法达到的对象待补语境。
+- 原卷：2026年全国硕士研究生招生考试英语（一）真题
+- 捕获批次：2026-07-21 生词与语境
+- 遇见 1：Section I / Use of English · p.1 · 正文 · 关联空格 14 · 卷面形式 `unattainable`
+
+
+- 公开边界：以上完整原句仅保留在私有 Vault；公开导出器会强制剥离该区块。
 - 参考：[Wiktionary](https://en.wiktionary.org/wiki/unattainable) · [Merriam-Webster](https://www.merriam-webster.com/dictionary/unattainable)

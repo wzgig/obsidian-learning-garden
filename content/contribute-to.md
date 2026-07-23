@@ -21,7 +21,7 @@
 
 ## 例句
 
-- **语境例句**：待补——原始批次未记录原句。
+- **真题语境**：已核对完整真题原句，见“来源与语境”的私有区块；公开站仅保留来源标签。
 - **原创例句 1**：Regular retrieval practice contributes to stronger long-term memory.
   中文：规律的提取练习有助于形成更牢固的长期记忆。
 - **原创例句 2**：Every member contributed to the final report.
@@ -41,7 +41,10 @@
 
 ## 来源与语境
 
-- 捕获批次：原始捕获
-- 原始形式：contribute to
-- 原句与出处：原始批次未记录原句；具体是因果义还是贡献义待补语境。
+- 原卷：2026年全国硕士研究生招生考试英语（一）真题
+- 捕获批次：2026-07-21 生词与语境
+- 遇见 1：Section I / Use of English · 第16题 C 选项 · 正确项 · 原题句 p.1 · 选项 p.2 · 卷面形式 `contribute to`
+
+
+- 公开边界：以上完整原句仅保留在私有 Vault；公开导出器会强制剥离该区块。
 - 参考：[Wiktionary](https://en.wiktionary.org/wiki/contribute) · [Merriam-Webster](https://www.merriam-webster.com/dictionary/contribute%20to)

@@ -21,7 +21,7 @@
 
 ## 例句
 
-- **语境例句**：待补——原始批次未记录原句。
+- **真题语境**：已核对完整真题原句，见“来源与语境”的私有区块；公开站仅保留来源标签。
 - **原创例句 1**：The searchable index makes the vocabulary cards convenient to review.
   中文：可搜索的索引让这些词卡复习起来很方便。
 - **原创例句 2**：Would Friday afternoon be convenient for you?
@@ -41,7 +41,10 @@
 
 ## 来源与语境
 
-- 捕获批次：原始捕获
-- 原始形式：convenient
-- 原句与出处：原始批次未记录原句；当前按常见便利与时间合适义整理。
+- 原卷：2026年全国硕士研究生招生考试英语（一）真题
+- 捕获批次：2026-07-21 生词与语境
+- 遇见 1：Section I / Use of English · p.1 · 正文 · 关联空格 6/7/8 · 卷面形式 `convenient`
+
+
+- 公开边界：以上完整原句仅保留在私有 Vault；公开导出器会强制剥离该区块。
 - 参考：[Wiktionary](https://en.wiktionary.org/wiki/convenient) · [Merriam-Webster](https://www.merriam-webster.com/dictionary/convenient)

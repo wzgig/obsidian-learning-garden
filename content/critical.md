@@ -2,7 +2,7 @@
 
 > [!summary] 一眼记住
 > **/ˈkrɪtɪkəl/** · *adjective* · 关键的；批评的；危急的；审辨的\
-> 遇见形式：critical → 形容词原形，原句缺失，具体义项尚不能确定。
+> 遇见形式：critical → 原卷词形、页码与完整语境已核验，详见文末私有来源区块。
 
 ## 中文释义
 
@@ -23,7 +23,7 @@
 
 ## 例句
 
-> 原始捕获没有保留完整句子，以下两句均为原创学习例句，不是原始出处。
+> 完整真题原句与位置见文末私有来源区块；以下两句仍为原创学习例句。
 
 - **原创例句 1**：Accurate source data is critical to the reliability of the model.\
   中文：准确的源数据对模型的可靠性至关重要。
@@ -34,7 +34,7 @@
 
 - **阅读识别**：学术文、新闻和医学文本中的义项差异很大，必须看搭配。
 - **写作或口语**：表达“至关重要”时可用 be critical to/for；表达批评时常用 be critical of。
-- **易错点**：critical 不总是“批判的”。critical condition 是“危急状态”，critical thinking 是“审辨性思维”。当前没有原句，不能替原作者选定其中一个义项。
+- **易错点**：critical 不总是“批判的”；真题 be critical for propelling human civilizations forward 表示“对推动人类文明前进至关重要”，而 be critical of 才常表示“批评……”。
 
 ## 主动回忆
 
@@ -44,7 +44,10 @@
 
 ## 来源与语境
 
-- 捕获批次：2026-07-21 生词记录
-- 原始形式：critical
-- 原句与出处：原始批次只记录了词形，没有保存原句、文章标题或 URL；这是明显多义词，遇见义项必须待原句确认。
+- 原卷：2026年全国硕士研究生招生考试英语（一）真题
+- 捕获批次：2026-07-21 生词与语境
+- 遇见 1：Section II / Part A / Text 1 · p.3 · 正文 · 卷面形式 `critical`
+
+
+- 公开边界：以上完整原句仅保留在私有 Vault；公开导出器会强制剥离该区块。
 - 参考：[Wiktionary](https://en.wiktionary.org/wiki/critical) · [Merriam-Webster](https://www.merriam-webster.com/dictionary/critical)

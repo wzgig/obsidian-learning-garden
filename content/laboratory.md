@@ -4,8 +4,8 @@
 > **/ˈlæbrətɔːri/** · *n.* · 实验室；进行科学实验、测试或分析的场所
 > 遇见形式：`Laboratory` → 遇见形式首字母大写，可能位于句首或属于机构名称；原形 laboratory
 
-> [!warning] 语境待补
-> 原始形式为 Laboratory。没有原句，无法判断它是普通名词、标题中的词，还是某个实验室专名的一部分。
+> [!info] 真题语境已核验
+> 完整原句、卷面词形和页码见文末私有来源区块；词卡释义与原创例句用于学习，不替代原卷。
 
 ## 中文释义
 
@@ -43,7 +43,10 @@
 
 ## 来源与语境
 
-- 捕获批次：2026-07-21 生词记录
-- 原始形式：`Laboratory`
-- 原句与出处：未记录；待下次遇见时补充，不根据单词清单伪造语境。
+- 原卷：2026年全国硕士研究生招生考试英语（一）真题
+- 捕获批次：2026-07-21 生词与语境
+- 遇见 1：Section II / Part A / Text 4 · p.8 · 正文 · 卷面形式 `Laboratory`
+
+
+- 公开边界：以上完整原句仅保留在私有 Vault；公开导出器会强制剥离该区块。
 - 参考：[Wiktionary](https://en.wiktionary.org/wiki/laboratory) · [Merriam-Webster](https://www.merriam-webster.com/dictionary/laboratory)

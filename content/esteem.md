@@ -21,7 +21,7 @@
 
 ## 例句
 
-- **语境例句**：待补——原始批次未记录原句。
+- **真题语境**：已核对完整真题原句，见“来源与语境”的私有区块；公开站仅保留来源标签。
 - **原创例句 1**：Her careful and honest work earned the esteem of her colleagues.
   中文：她认真而诚实的工作赢得了同事们的敬重。
 - **原创例句 2**：Students with healthy self-esteem are more willing to learn from mistakes.
@@ -41,7 +41,10 @@
 
 ## 来源与语境
 
-- 捕获批次：原始捕获
-- 原始形式：esteem
-- 原句与出处：原始批次未记录原句；名词、动词或 self-esteem 相关语境待补确认。
+- 原卷：2026年全国硕士研究生招生考试英语（一）真题
+- 捕获批次：2026-07-21 生词与语境
+- 遇见 1：Section I / Use of English · p.1 · 正文 · 关联空格 17/18 · 卷面形式 `self-esteem`
+
+
+- 公开边界：以上完整原句仅保留在私有 Vault；公开导出器会强制剥离该区块。
 - 参考：[Wiktionary](https://en.wiktionary.org/wiki/esteem) · [Merriam-Webster](https://www.merriam-webster.com/dictionary/esteem)

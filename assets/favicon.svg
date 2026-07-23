@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <title>Lexicon Garden</title>
-  <rect x="4" y="4" width="56" height="56" rx="16" fill="#17324d"/>
-  <path d="M32 25c-4.8-4.1-10.7-5.4-18-3.7v25.3c7.3-1.7 13.2-.4 18 3.7V25Z" fill="#f2eadb"/>
-  <path d="M32 25c4.8-4.1 10.7-5.4 18-3.7v25.3c-7.3-1.7-13.2-.4-18 3.7V25Z" fill="#fffaf0"/>
-  <path d="M32 24v26" stroke="#d16b4f" stroke-width="2.5" stroke-linecap="round"/>
-  <path d="M32 22v-7" stroke="#d8a23a" stroke-width="2.5" stroke-linecap="round"/>
-  <path d="M31.5 17.5c-4.7.2-7.2-1.8-7.5-5.8 4.6-.2 7.1 1.7 7.5 5.8Z" fill="#d8a23a"/>
-  <path d="M32.5 17.5c4.7.2 7.2-1.8 7.5-5.8-4.6-.2-7.1 1.7-7.5 5.8Z" fill="#e3bb58"/>
+  <title>词间 · Lexicon Garden</title>
+  <rect x="3" y="3" width="58" height="58" rx="17" fill="#0672d8"/>
+  <path d="M32 25.5c-5-3.9-10.8-5.1-17.4-3.5v24.2c6.6-1.6 12.4-.4 17.4 3.5V25.5Z" fill="#fff" fill-opacity=".96"/>
+  <path d="M32 25.5c5-3.9 10.8-5.1 17.4-3.5v24.2c-6.6-1.6-12.4-.4-17.4 3.5V25.5Z" fill="#fff" fill-opacity=".88"/>
+  <path d="M32 24.5v25.2" stroke="#0672d8" stroke-width="2.3" stroke-linecap="round"/>
+  <path d="M32 22v-7" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M31.6 17.5c-4.8.1-7.4-1.8-7.7-5.9 4.7-.2 7.3 1.7 7.7 5.9Z" fill="#7ee28d"/>
+  <path d="M32.4 17.5c4.8.1 7.4-1.8 7.7-5.9-4.7-.2-7.3 1.7-7.7 5.9Z" fill="#b8f2bf"/>
 </svg>

@@ -22,7 +22,7 @@
 
 ## 例句
 
-> 原始捕获没有保留完整句子，以下两句均为原创学习例句，不是原始出处。
+> 完整真题原句与位置见文末私有来源区块；以下两句仍为原创学习例句。
 
 - **原创例句 1**：The afternoon slipped away while I reorganized my notes.\
   中文：我整理笔记时，整个下午不知不觉地过去了。
@@ -33,7 +33,7 @@
 
 - **阅读识别**：小说和新闻特写中常用来营造逐渐失去或安静离开的感觉。
 - **写作或口语**：适合表达 time/opportunity slipping away，比 disappear 更具过程感。
-- **易错点**：原始形式可能指时间流逝、机会失去、人物离开，甚至婉称死亡；没有原句绝不能擅自选定最敏感的义项。
+- **易错点**：slip away 可指时间流逝、机会失去、人物离开或婉称死亡；真题 has been slipping away from Hollywood 指电影制作业务逐渐流失、转移。
 
 ## 主动回忆
 
@@ -43,7 +43,10 @@
 
 ## 来源与语境
 
-- 捕获批次：2026-07-21 生词记录
-- 原始形式：slipping away
-- 原句与出处：原始批次只记录了短语形式，没有保存原句、文章标题或 URL；离开、流逝、失去或婉称死亡的义项待确认。
+- 原卷：2026年全国硕士研究生招生考试英语（一）真题
+- 捕获批次：2026-07-21 生词与语境
+- 遇见 1：Section II / Part A / Text 2 · p.5 · 正文 · 卷面形式 `slipping away`
+
+
+- 公开边界：以上完整原句仅保留在私有 Vault；公开导出器会强制剥离该区块。
 - 参考：[Wiktionary](https://en.wiktionary.org/wiki/slip_away) · [Merriam-Webster](https://www.merriam-webster.com/dictionary/slip%20away)

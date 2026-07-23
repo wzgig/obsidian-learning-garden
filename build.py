@@ -16,6 +16,45 @@ from markdown_it import MarkdownIt
 SLUG_PATTERN = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*")
 BUILD_MARKER_NAME = ".public-site-build-marker"
 BUILD_MARKER_CONTENT = "lexicon-garden-static-build-v1\n"
+PRIVATE_CONTEXT_START = "<!-- PRIVATE-SOURCE-CONTEXT:START -->"
+PRIVATE_CONTEXT_END = "<!-- PRIVATE-SOURCE-CONTEXT:END -->"
+PRIORITY_RANKS = {
+    "low": 0,
+    "later": 0,
+    "normal": 1,
+    "routine": 1,
+    "medium": 2,
+    "watch": 2,
+    "high": 3,
+    "focus": 3,
+    "urgent": 4,
+    "critical": 4,
+}
+PRIORITY_PRESENTATION = {
+    0: ("later", "稍后"),
+    1: ("normal", "常规"),
+    2: ("watch", "关注"),
+    3: ("high", "优先"),
+    4: ("urgent", "立即复习"),
+}
+CONTEXT_STATUS_PRESENTATION = {
+    "needs_context": "语境待确认",
+    "complete": "语境完整",
+    "ready": "语境就绪",
+    "verified": "已核验",
+    "source_mismatch": "来源待核",
+}
+CALLOUT_LABELS = {
+    "summary": "一眼记住",
+    "abstract": "摘要",
+    "note": "提示",
+    "info": "说明",
+    "tip": "提示",
+    "example": "示例",
+    "warning": "注意",
+    "caution": "注意",
+    "danger": "重要提醒",
+}
 
 
 def normalize_base_url(value: str) -> str:
@@ -28,6 +67,114 @@ def plain_text(markdown: str) -> str:
     value = re.sub(r"!?(?:\[([^\]]+)\]\([^\)]+\))", r"\1", value)
     value = re.sub(r"[#>*_`|~-]", " ", value)
     return re.sub(r"\s+", " ", value).strip()
+
+
+def strip_private_source_context(markdown: str) -> str:
+    """Remove private source excerpts before rendering or indexing.
+
+    The exporter is expected to remove these blocks first. The builder repeats the
+    check as a fail-closed boundary so a malformed marker cannot silently publish
+    an exam excerpt or any other private source context.
+    """
+
+    chunks: list[str] = []
+    cursor = 0
+    while True:
+        start = markdown.find(PRIVATE_CONTEXT_START, cursor)
+        stray_end = markdown.find(PRIVATE_CONTEXT_END, cursor)
+        if stray_end >= 0 and (start < 0 or stray_end < start):
+            raise ValueError("private source context has an unmatched end marker")
+        if start < 0:
+            chunks.append(markdown[cursor:])
+            break
+        chunks.append(markdown[cursor:start])
+        end = markdown.find(PRIVATE_CONTEXT_END, start + len(PRIVATE_CONTEXT_START))
+        if end < 0:
+            raise ValueError("private source context has an unmatched start marker")
+        cursor = end + len(PRIVATE_CONTEXT_END)
+
+    sanitized = "".join(chunks)
+    if PRIVATE_CONTEXT_START in sanitized or PRIVATE_CONTEXT_END in sanitized:
+        raise ValueError("private source context marker survived sanitization")
+    return re.sub(r"\n{3,}", "\n\n", sanitized).strip() + "\n"
+
+
+def normalize_obsidian_callouts(markdown: str) -> str:
+    """Render Obsidian callout headers as readable CommonMark blockquotes."""
+
+    pattern = re.compile(r"(?m)^>\s*\[!([A-Za-z0-9_-]+)\][+-]?\s*(.*?)\s*$")
+
+    def replace(match: re.Match) -> str:
+        callout_type = match.group(1).lower()
+        explicit_title = match.group(2).strip()
+        title = explicit_title or CALLOUT_LABELS.get(callout_type, "提示")
+        return f"> **{title}**"
+
+    return pattern.sub(replace, markdown)
+
+
+def strip_matching_leading_heading(markdown: str, title: str) -> str:
+    """Avoid rendering the note title twice when Markdown starts with the same H1."""
+
+    match = re.match(r"\A\ufeff?[ \t]*#\s+(.+?)[ \t]*(?:\r?\n+|\Z)", markdown)
+    if match is None:
+        return markdown
+    heading = re.sub(r"[`*_]", "", match.group(1)).strip()
+    if heading.casefold() != str(title or "").strip().casefold():
+        return markdown
+    return markdown[match.end() :].lstrip("\r\n")
+
+
+def _nonnegative_int(value, default: int = 0) -> int:
+    if isinstance(value, bool):
+        return default
+    try:
+        number = int(value)
+    except (TypeError, ValueError):
+        return default
+    return max(0, number)
+
+
+def _study_metrics(metadata: dict) -> dict:
+    encounter_count = max(1, _nonnegative_int(metadata.get("encounter_count"), 1))
+    lapse_count = _nonnegative_int(metadata.get("lapse_count"))
+    review_count = _nonnegative_int(metadata.get("review_count"))
+    priority_score = _nonnegative_int(metadata.get("priority_score"))
+    priority_value = metadata.get("review_priority", "")
+    raw_priority = str(priority_value).strip().lower()
+    priority_rank = PRIORITY_RANKS.get(raw_priority)
+    if isinstance(priority_value, int) and not isinstance(priority_value, bool):
+        priority_rank = min(4, max(0, priority_value))
+    if priority_rank is None:
+        if priority_score >= 80:
+            priority_rank = 4
+        elif priority_score >= 60:
+            priority_rank = 3
+        elif priority_score >= 30:
+            priority_rank = 2
+        else:
+            priority_rank = 1
+    priority_key, priority_label = PRIORITY_PRESENTATION[priority_rank]
+    return {
+        "encounter_count": encounter_count,
+        "lapse_count": lapse_count,
+        "review_count": review_count,
+        "priority_score": priority_score,
+        "priority_rank": priority_rank,
+        "priority_key": priority_key,
+        "priority_label": priority_label,
+        "is_repeat": encounter_count > 1,
+        "has_lapse": lapse_count > 0,
+        "is_focus": priority_rank >= 3 or lapse_count > 0,
+        "first_seen": str(metadata.get("first_seen", "") or ""),
+        "last_seen": str(metadata.get("last_seen", "") or ""),
+        "next_review": str(metadata.get("next_review", "") or ""),
+    }
+
+
+def _context_status_label(metadata: dict) -> str:
+    status = str(metadata.get("context_status", "") or "").strip()
+    return CONTEXT_STATUS_PRESENTATION.get(status, status)
 
 
 def _is_relative_to(path: Path, parent: Path) -> bool:
@@ -186,6 +333,13 @@ def _load_notes(project_root: Path, content_root: Path, manifest: dict) -> list[
             raise ValueError(f"duplicate public slug in manifest: {slug}")
         seen_slugs.add(slug)
 
+        kind = entry.get("kind")
+        if not isinstance(kind, str) or not kind.strip():
+            raise ValueError(f"invalid kind for slug {slug!r}")
+        metadata = entry.get("metadata")
+        if not isinstance(metadata, dict):
+            raise ValueError(f"invalid metadata for slug {slug!r}")
+
         content_file = entry.get("content_file")
         if not isinstance(content_file, str) or not content_file.strip():
             raise ValueError(f"invalid content_file for slug {slug!r}")
@@ -205,10 +359,19 @@ def _load_notes(project_root: Path, content_root: Path, manifest: dict) -> list[
         if not source.is_file():
             raise ValueError(f"content_file is missing or not a file for slug {slug!r}")
 
-        markdown = source.read_text(encoding="utf-8")
+        markdown = strip_private_source_context(source.read_text(encoding="utf-8"))
+        markdown = strip_matching_leading_heading(markdown, entry.get("title", ""))
+        markdown = normalize_obsidian_callouts(markdown)
         notes.append(
             {
                 **entry,
+                "kind": kind,
+                "metadata": metadata,
+                "study": _study_metrics(metadata),
+                "context_status_label": _context_status_label(metadata),
+                "display_cn": str(
+                    metadata.get("zh_gloss") or entry.get("summary_cn", "") or ""
+                ),
                 "html": renderer.render(markdown),
                 "plain": plain_text(markdown),
             }
@@ -236,7 +399,15 @@ def build_site(project_root: Path, output: Path, base_url: str) -> dict:
         autoescape=select_autoescape(["html", "xml"]),
     )
     cards = [note for note in notes if note["kind"] == "vocabulary"]
-    cards.sort(key=lambda item: str(item["metadata"].get("lemma", item["title"])).lower())
+    cards.sort(
+        key=lambda item: (
+            -item["study"]["priority_rank"],
+            -item["study"]["priority_score"],
+            -item["study"]["lapse_count"],
+            -item["study"]["encounter_count"],
+            str(item["metadata"].get("lemma", item["title"])).lower(),
+        )
+    )
     pages = {note["slug"]: note for note in notes}
     if "vocabulary" not in pages:
         raise ValueError("vocabulary homepage is missing")
@@ -252,6 +423,9 @@ def build_site(project_root: Path, output: Path, base_url: str) -> dict:
         "needs_context_count": sum(
             card["metadata"].get("context_status") == "needs_context" for card in cards
         ),
+        "repeat_card_count": sum(card["study"]["is_repeat"] for card in cards),
+        "lapse_card_count": sum(card["study"]["has_lapse"] for card in cards),
+        "focus_card_count": sum(card["study"]["is_focus"] for card in cards),
     }
 
     index_template = env.get_template("index.html")
@@ -275,8 +449,17 @@ def build_site(project_root: Path, output: Path, base_url: str) -> dict:
             "study_mode": card["metadata"].get("study_mode", ""),
             "mastery": card["metadata"].get("mastery", ""),
             "summary_cn": card.get("summary_cn", ""),
+            "zh_gloss": card["display_cn"],
             "summary_en": card.get("summary_en", ""),
-            "plain": card["plain"][:1200],
+            "encounter_count": card["study"]["encounter_count"],
+            "lapse_count": card["study"]["lapse_count"],
+            "review_count": card["study"]["review_count"],
+            "priority_score": card["study"]["priority_score"],
+            "review_priority": card["study"]["priority_key"],
+            "first_seen": card["study"]["first_seen"],
+            "last_seen": card["study"]["last_seen"],
+            "next_review": card["study"]["next_review"],
+            "plain": card["plain"][:1600],
         }
         for card in cards
     ]
@@ -289,8 +472,9 @@ def build_site(project_root: Path, output: Path, base_url: str) -> dict:
             "short_name": config["short_name"],
             "start_url": base_url,
             "display": "standalone",
-            "background_color": "#f2eadb",
-            "theme_color": "#17324d",
+            "background_color": "#f5f5f7",
+            "theme_color": "#f5f5f7",
+            "categories": ["education", "reference"],
         },
         ensure_ascii=False,
     )

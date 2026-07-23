@@ -1,25 +1,33 @@
 {
-  "generated_at": "2026-07-23T03:40:24.561953+00:00",
+  "generated_at": "2026-07-23T06:09:01.068579+00:00",
   "notes": [
     {
       "slug": "accidentally",
       "title": "accidentally",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-25",
-        "mastery": "unassessed",
-        "lemma": "accidentally",
         "pos": [
           "adverb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-25",
+        "lemma": "accidentally",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "accidentally",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "某事并非有意计划，却意外发生",
+        "status": "active",
         "forms": [
           "Accidentally"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "某事并非有意计划，却意外发生。",
       "summary_en": "Accidentally means by mistake or without intending for something to happen.",
@@ -30,20 +38,28 @@
       "title": "afterward",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-24",
-        "mastery": "unassessed",
-        "lemma": "afterward",
         "pos": [
           "adverb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-24",
+        "lemma": "afterward",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "afterward",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "在某件事发生之后；后来",
+        "status": "active",
         "forms": [
           "Afterward"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "在某件事发生之后；后来。",
       "summary_en": "Afterward means at a later time, after an event or action has finished.",
@@ -54,20 +70,29 @@
       "title": "algorithm",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-27",
-        "mastery": "unassessed",
-        "lemma": "algorithm",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-27",
+        "lemma": "algorithm",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "algorithm",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "为解决问题或完成计算而设计的一组明确、有序的规则或步骤",
+        "status": "active",
         "forms": [
-          "algorithm"
-        ]
+          "algorithm",
+          "algorithms"
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "为解决问题或完成计算而设计的一组明确、有序的规则或步骤。",
       "summary_en": "An algorithm is a clear set of ordered rules or steps that a computer or person follows to solve a problem.",
@@ -78,20 +103,28 @@
       "title": "alter",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-31",
-        "mastery": "unassessed",
-        "lemma": "alter",
         "pos": [
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-31",
+        "lemma": "alter",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "alter",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "改变、改动：使性质、外观、计划或结果有所不同，通常不强调彻底替换",
+        "status": "active",
         "forms": [
           "alters"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "改变、改动：使性质、外观、计划或结果有所不同，通常不强调彻底替换。",
       "summary_en": "To alter something is to change part of it so that it becomes different, while it often remains the same basic thing.",
@@ -102,20 +135,28 @@
       "title": "alternatively",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-25",
-        "mastery": "unassessed",
-        "lemma": "alternatively",
         "pos": [
           "adverb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-25",
+        "lemma": "alternatively",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "alternatively",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "引出与前一种方案不同的另一个选择",
+        "status": "active",
         "forms": [
           "Alternatively"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "引出与前一种方案不同的另一个选择。",
       "summary_en": "Alternatively introduces another choice or a different way of doing something.",
@@ -126,20 +167,28 @@
       "title": "ambition",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-24",
-        "mastery": "unassessed",
-        "lemma": "ambition",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-24",
+        "lemma": "ambition",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "ambition",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "强烈希望取得成就的愿望",
+        "status": "active",
         "forms": [
           "ambitions"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "强烈希望取得成就的愿望。",
       "summary_en": "Ambition is a strong desire to achieve something, or a particular goal that someone hopes to reach.",
@@ -150,20 +199,28 @@
       "title": "apart from",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "phrase",
-        "next_review": "2026-07-25",
-        "mastery": "unassessed",
-        "lemma": "apart from",
         "pos": [
           "prepositional_phrase"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-25",
+        "lemma": "apart from",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "apart-from",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "表示排除某人或某物，相当于 except for",
+        "status": "active",
         "forms": [
           "apart from"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "phrase"
       },
       "summary_cn": "表示排除某人或某物，相当于 except for。",
       "summary_en": "Apart from can mean “except for” or “in addition to.” It can also describe being separated from someone or something.",
@@ -174,20 +231,28 @@
       "title": "apparent",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-01",
-        "mastery": "unassessed",
-        "lemma": "apparent",
         "pos": [
           "adjective"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-01",
+        "lemma": "apparent",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "apparent",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "明显的、显而易见的：容易看出或理解",
+        "status": "active",
         "forms": [
           "apparent"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "明显的、显而易见的：容易看出或理解。",
       "summary_en": "Apparent can mean clearly visible or easy to understand, but it can also describe something that only seems true based on current appearances.",
@@ -198,20 +263,28 @@
       "title": "appreciation",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-26",
-        "mastery": "unassessed",
-        "lemma": "appreciation",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-26",
+        "lemma": "appreciation",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "appreciation",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "对帮助或善意的感激；对价值、美感或质量的欣赏",
+        "status": "active",
         "forms": [
           "appreciation"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "对帮助或善意的感激；对价值、美感或质量的欣赏。",
       "summary_en": "Appreciation is gratitude, recognition of value or quality, or a clear understanding of something. In finance, it can mean an increase in value.",
@@ -222,20 +295,28 @@
       "title": "approximately",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-25",
-        "mastery": "unassessed",
-        "lemma": "approximately",
         "pos": [
           "adverb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-25",
+        "lemma": "approximately",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "approximately",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "数量、时间或程度接近某个值，但并非完全精确",
+        "status": "active",
         "forms": [
           "Approximately"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "数量、时间或程度接近某个值，但并非完全精确。",
       "summary_en": "Approximately means close to a number, amount, or time, but not exactly equal to it.",
@@ -246,20 +327,28 @@
       "title": "archaeologist",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-07-30",
-        "mastery": "unassessed",
-        "lemma": "archaeologist",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-30",
+        "lemma": "archaeologist",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "archaeologist",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "考古学家：通过遗址、器物、遗骸和其他物质证据研究过去人类社会的人",
+        "status": "active",
         "forms": [
           "archaeologists"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "考古学家：通过遗址、器物、遗骸和其他物质证据研究过去人类社会的人。",
       "summary_en": "An archaeologist studies past human life by examining physical remains such as tools, buildings, bones, seeds, and objects found at sites.",
@@ -270,20 +359,28 @@
       "title": "arrange",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-24",
-        "mastery": "unassessed",
-        "lemma": "arrange",
         "pos": [
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-24",
+        "lemma": "arrange",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "arrange",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "提前计划并确保某件事发生",
+        "status": "active",
         "forms": [
           "arrange"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "提前计划并确保某件事发生。",
       "summary_en": "To arrange is to plan something so that it can happen, or to put things into a clear order or position.",
@@ -294,20 +391,28 @@
       "title": "attract",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-01",
-        "mastery": "unassessed",
-        "lemma": "attract",
         "pos": [
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-01",
+        "lemma": "attract",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "attract",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "吸引：使人、动物或物体靠近或产生兴趣",
+        "status": "active",
         "forms": [
           "attract"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "吸引：使人、动物或物体靠近或产生兴趣。",
       "summary_en": "To attract is to draw a person, animal, object, attention, or interest toward something because of force, appeal, value, or importance.",
@@ -318,45 +423,93 @@
       "title": "audience",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-03",
-        "mastery": "unassessed",
-        "lemma": "audience",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-03",
+        "lemma": "audience",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "audience",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "观众；听众；读者群",
+        "status": "active",
         "forms": [
           "audience"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "观众；听众；读者群",
       "summary_en": "An audience is the group of people who watch, listen to, or read something, especially the people a message is meant to reach.",
       "content_file": "content/audience.md"
     },
     {
+      "slug": "bear",
+      "title": "bear",
+      "kind": "vocabulary",
+      "metadata": {
+        "pos": [
+          "verb"
+        ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-27",
+        "lemma": "bear",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
+        "public_slug": "bear",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "承载、支撑或携带：承担重量、责任或某种负担",
+        "status": "active",
+        "forms": [
+          "bore"
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
+      },
+      "summary_cn": "承载、支撑或携带：承担重量、责任或某种负担。",
+      "summary_en": "To bear something is to carry, support, endure, produce, or visibly show it. Bore is the past tense, and borne is the usual past participle for these meanings.",
+      "content_file": "content/bear.md"
+    },
+    {
       "slug": "bench",
       "title": "bench",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-08-02",
-        "mastery": "unassessed",
-        "lemma": "bench",
         "pos": [
           "noun",
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-02",
+        "lemma": "bench",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "bench",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "长凳；工作台",
+        "status": "active",
         "forms": [
           "bench"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "长凳；工作台",
       "summary_en": "A bench can be a long seat, a work surface, the group of judges in a court, or the place for reserve players. As a verb, it can mean taking someone out of active play.",
@@ -367,72 +520,63 @@
       "title": "blaze",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-08-06",
-        "mastery": "unassessed",
-        "lemma": "blaze",
         "pos": [
           "noun",
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-06",
+        "lemma": "blaze",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "blaze",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "熊熊燃烧的火焰；大火",
+        "status": "active",
         "forms": [
           "blazes"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "熊熊燃烧的火焰；大火",
       "summary_en": "A blaze is a large, bright, strongly burning fire. To blaze is to burn fiercely or shine with great intensity.",
       "content_file": "content/blaze.md"
     },
     {
-      "slug": "bore",
-      "title": "bore",
-      "kind": "vocabulary",
-      "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-08-06",
-        "mastery": "unassessed",
-        "lemma": "bore",
-        "pos": [
-          "verb",
-          "noun"
-        ],
-        "public_slug": "bore",
-        "context_status": "needs_context",
-        "forms": [
-          "bore"
-        ]
-      },
-      "summary_cn": "作为独立动词：钻孔；使人厌烦",
-      "summary_en": "Bore can be its own word, meaning to make a hole or make someone feel uninterested. It can also be the past tense of bear, so the original sentence is essential.",
-      "content_file": "content/bore.md"
-    },
-    {
       "slug": "broadcast",
       "title": "broadcast",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-04",
-        "mastery": "unassessed",
-        "lemma": "broadcast",
         "pos": [
           "verb",
           "noun",
           "adjective"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-04",
+        "lemma": "broadcast",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "broadcast",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "广播；播送；广泛传播",
+        "status": "active",
         "forms": [
           "broadcasting"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "广播；播送；广泛传播",
       "summary_en": "To broadcast is to send audio, video, or information to many people at once. A broadcast is the program or message being sent.",
@@ -443,21 +587,29 @@
       "title": "brush",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-04",
-        "mastery": "unassessed",
-        "lemma": "brush",
         "pos": [
           "noun",
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-04",
+        "lemma": "brush",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "brush",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "刷子；画笔；毛刷",
+        "status": "active",
         "forms": [
           "brush"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "刷子；画笔；毛刷",
       "summary_en": "A brush is a tool with bristles. To brush is to clean, smooth, paint, or touch something lightly with a brushing movement.",
@@ -468,20 +620,28 @@
       "title": "cater",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-27",
-        "mastery": "unassessed",
-        "lemma": "cater",
         "pos": [
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-27",
+        "lemma": "cater",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "cater",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "为活动或群体提供食物和服务",
+        "status": "active",
         "forms": [
           "cater"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "为活动或群体提供食物和服务。",
       "summary_en": "To cater is to provide food for an event or to supply what a particular group needs or wants.",
@@ -492,20 +652,28 @@
       "title": "cherish",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-24",
-        "mastery": "unassessed",
-        "lemma": "cherish",
         "pos": [
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-24",
+        "lemma": "cherish",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "cherish",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "深深喜爱并悉心珍惜某人或某物",
+        "status": "active",
         "forms": [
           "cherish"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "深深喜爱并悉心珍惜某人或某物。",
       "summary_en": "To cherish is to care deeply about someone or something and to keep it valuable in your heart or life.",
@@ -516,20 +684,28 @@
       "title": "civilization",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-29",
-        "mastery": "unassessed",
-        "lemma": "civilization",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-29",
+        "lemma": "civilization",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "civilization",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "文明：一个社会长期形成的组织、文化、技术和制度体系",
+        "status": "active",
         "forms": [
           "civilizations"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "文明：一个社会长期形成的组织、文化、技术和制度体系。",
       "summary_en": "A civilization is a large, organized society with developed institutions, culture, technology, and shared ways of life; the word can also mean the broader condition of such social development.",
@@ -540,21 +716,29 @@
       "title": "clue",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-24",
-        "mastery": "unassessed",
-        "lemma": "clue",
         "pos": [
           "noun",
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-24",
+        "lemma": "clue",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "clue",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "名词：帮助解开问题、谜团或理解某事的信息",
+        "status": "active",
         "forms": [
           "clue"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "名词：帮助解开问题、谜团或理解某事的信息。",
       "summary_en": "A clue is a piece of information that helps you solve a problem or understand something that is not yet clear.",
@@ -565,20 +749,28 @@
       "title": "coincide",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-30",
-        "mastery": "unassessed",
-        "lemma": "coincide",
         "pos": [
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-30",
+        "lemma": "coincide",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "coincide",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "同时发生：两个事件恰好出现在同一时间",
+        "status": "active",
         "forms": [
           "coincided"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "同时发生：两个事件恰好出现在同一时间。",
       "summary_en": "To coincide is to happen at the same time, to occupy the same position, or to agree closely with another fact, result, or opinion.",
@@ -589,20 +781,28 @@
       "title": "collaborative",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-26",
-        "mastery": "unassessed",
-        "lemma": "collaborative",
         "pos": [
           "adjective"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-26",
+        "lemma": "collaborative",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "collaborative",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "由多人、团队或组织共同参与、共同完成的",
+        "status": "active",
         "forms": [
           "collaborative"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "由多人、团队或组织共同参与、共同完成的。",
       "summary_en": "Collaborative describes work, tools, or people that involve cooperating and creating something together.",
@@ -613,20 +813,28 @@
       "title": "colonist",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-08-06",
-        "mastery": "unassessed",
-        "lemma": "colonist",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-06",
+        "lemma": "colonist",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "colonist",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "殖民者；殖民地定居者",
+        "status": "active",
         "forms": [
           "colonists"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "殖民者；殖民地定居者",
       "summary_en": "A colonist is a person who settles in a colony, often as part of a political or economic expansion controlled by another power.",
@@ -637,21 +845,29 @@
       "title": "commission",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-08-02",
-        "mastery": "unassessed",
-        "lemma": "commission",
         "pos": [
           "noun",
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-02",
+        "lemma": "commission",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "commission",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "委员会；受命处理某项事务的官方机构",
+        "status": "active",
         "forms": [
           "Commission"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "委员会；受命处理某项事务的官方机构",
       "summary_en": "A commission can be an official group, an assigned piece of work, or money paid for making a sale. To commission something is to formally ask for it to be created or done.",
@@ -662,20 +878,28 @@
       "title": "conscience",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-31",
-        "mastery": "unassessed",
-        "lemma": "conscience",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-31",
+        "lemma": "conscience",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "conscience",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "良心、道德感：让人判断自己的行为是否正确，并可能因错误行为而内疚的内在意识",
+        "status": "active",
         "forms": [
           "conscience"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "良心、道德感：让人判断自己的行为是否正确，并可能因错误行为而内疚的内在意识。",
       "summary_en": "Conscience is the inner sense that judges whether one's actions are morally right or wrong and can create guilt when one acts against that judgment.",
@@ -686,20 +910,28 @@
       "title": "consciousness",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-08-03",
-        "mastery": "unassessed",
-        "lemma": "consciousness",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-03",
+        "lemma": "consciousness",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "consciousness",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "意识；对自身和周围环境的觉察",
+        "status": "active",
         "forms": [
           "consciousness"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "意识；对自身和周围环境的觉察",
       "summary_en": "Consciousness is the state of being awake and aware, or the inner experience of noticing thoughts, feelings, and the world.",
@@ -710,20 +942,28 @@
       "title": "consumption",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-07-26",
-        "mastery": "unassessed",
-        "lemma": "consumption",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-26",
+        "lemma": "consumption",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "consumption",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "使用能源、材料、商品或服务的过程和数量",
+        "status": "active",
         "forms": [
           "consumption"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "使用能源、材料、商品或服务的过程和数量。",
       "summary_en": "Consumption is the use of resources, goods, energy, food, or drink, especially when the amount used is being measured or discussed.",
@@ -734,20 +974,28 @@
       "title": "continent",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-07-30",
-        "mastery": "unassessed",
-        "lemma": "continent",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-30",
+        "lemma": "continent",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "continent",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "大陆、洲：地球上非常大的连续陆地区域，如 Asia、Africa",
+        "status": "active",
         "forms": [
           "continent"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "大陆、洲：地球上非常大的连续陆地区域，如 Asia、Africa。",
       "summary_en": "A continent is one of the world's major continuous land areas, commonly identified as Africa, Antarctica, Asia, Europe, North America, South America, and Australia.",
@@ -758,20 +1006,28 @@
       "title": "contribute to",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "phrase",
-        "next_review": "2026-07-25",
-        "mastery": "unassessed",
-        "lemma": "contribute to",
         "pos": [
           "verb_phrase"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-25",
+        "lemma": "contribute to",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "contribute-to",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "成为某个结果的部分原因，可能产生积极或消极影响",
+        "status": "active",
         "forms": [
           "contribute to"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "phrase"
       },
       "summary_cn": "成为某个结果的部分原因，可能产生积极或消极影响。",
       "summary_en": "To contribute to something is to help cause it or to give time, money, ideas, or work that supports it.",
@@ -782,20 +1038,28 @@
       "title": "convenient",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-27",
-        "mastery": "unassessed",
-        "lemma": "convenient",
         "pos": [
           "adjective"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-27",
+        "lemma": "convenient",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "convenient",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "容易使用、节省时间或不造成困难",
+        "status": "active",
         "forms": [
           "convenient"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "容易使用、节省时间或不造成困难。",
       "summary_en": "Convenient describes something that is easy to use, saves time, or fits a person's needs or schedule well.",
@@ -806,21 +1070,29 @@
       "title": "cosmetic",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-07-27",
-        "mastery": "unassessed",
-        "lemma": "cosmetic",
         "pos": [
           "adjective",
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-27",
+        "lemma": "cosmetic",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "cosmetic",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "形容词：与美容、外表改善有关的",
+        "status": "active",
         "forms": [
           "cosmetic"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "形容词：与美容、外表改善有关的。",
       "summary_en": "Cosmetic can relate to beauty products or appearance. It can also describe a change that only affects the surface and does not solve the main problem.",
@@ -831,20 +1103,28 @@
       "title": "counterpart",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-02",
-        "mastery": "unassessed",
-        "lemma": "counterpart",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-02",
+        "lemma": "counterpart",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "counterpart",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "职位、作用或功能相对应的人或事物",
+        "status": "active",
         "forms": [
           "counterpart"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "职位、作用或功能相对应的人或事物",
       "summary_en": "A counterpart is a person or thing that has a similar role or function in another place, group, or system.",
@@ -855,20 +1135,28 @@
       "title": "countless",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-05",
-        "mastery": "unassessed",
-        "lemma": "countless",
         "pos": [
           "adjective"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-05",
+        "lemma": "countless",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "countless",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "无数的；多得数不清的",
+        "status": "active",
         "forms": [
           "countless"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "无数的；多得数不清的",
       "summary_en": "Countless means too many to count or an extremely large number of.",
@@ -879,20 +1167,28 @@
       "title": "critical",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-28",
-        "mastery": "unassessed",
-        "lemma": "critical",
         "pos": [
           "adjective"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-28",
+        "lemma": "critical",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "critical",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "关键的、极重要的：会显著影响结果",
+        "status": "active",
         "forms": [
           "critical"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "关键的、极重要的：会显著影响结果。",
       "summary_en": "Critical can describe something extremely important, a situation that is dangerously serious, a judgment that points out faults, or thinking that carefully tests claims and evidence.",
@@ -903,20 +1199,28 @@
       "title": "curate",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-03",
-        "mastery": "unassessed",
-        "lemma": "curate",
         "pos": [
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-03",
+        "lemma": "curate",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "curate",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "策划并组织展览、收藏或内容",
+        "status": "active",
         "forms": [
           "curated"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "策划并组织展览、收藏或内容",
       "summary_en": "To curate is to carefully choose, organize, and present items or information for a particular audience or purpose.",
@@ -927,20 +1231,28 @@
       "title": "customize",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-25",
-        "mastery": "unassessed",
-        "lemma": "customize",
         "pos": [
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-25",
+        "lemma": "customize",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "customize",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "根据某个用户、任务或场景的具体需要修改产品、系统或内容",
+        "status": "active",
         "forms": [
           "customized"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "根据某个用户、任务或场景的具体需要修改产品、系统或内容。",
       "summary_en": "To customize something is to change it so that it better fits a particular person, task, or purpose.",
@@ -951,20 +1263,28 @@
       "title": "diary",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-03",
-        "mastery": "unassessed",
-        "lemma": "diary",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-03",
+        "lemma": "diary",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "diary",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "日记；按日期记录个人经历或想法的文字",
+        "status": "active",
         "forms": [
           "diaries"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "日记；按日期记录个人经历或想法的文字",
       "summary_en": "A diary is a dated personal record of events and thoughts, or a book or system used to keep appointments.",
@@ -975,21 +1295,29 @@
       "title": "dip",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-02",
-        "mastery": "unassessed",
-        "lemma": "dip",
         "pos": [
           "verb",
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-02",
+        "lemma": "dip",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "dip",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "浸、蘸：把某物短暂放入液体或软质食物中",
+        "status": "active",
         "forms": [
           "dip"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "浸、蘸：把某物短暂放入液体或软质食物中。",
       "summary_en": "To dip is to put something briefly into a liquid or to move downward for a short time. A dip is a small or temporary fall, or a low place in a surface.",
@@ -1000,20 +1328,28 @@
       "title": "distort",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-28",
-        "mastery": "unassessed",
-        "lemma": "distort",
         "pos": [
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-28",
+        "lemma": "distort",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "distort",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "改变形状、声音或图像，使其不再准确自然",
+        "status": "active",
         "forms": [
           "distorted"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "改变形状、声音或图像，使其不再准确自然。",
       "summary_en": "To distort something is to change its shape, sound, image, or meaning so that it is no longer accurate or true.",
@@ -1024,20 +1360,28 @@
       "title": "division",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-25",
-        "mastery": "unassessed",
-        "lemma": "division",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-25",
+        "lemma": "division",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "division",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "把整体分开的行为或结果；群体间的分歧",
+        "status": "active",
         "forms": [
           "divisions"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "把整体分开的行为或结果；群体间的分歧。",
       "summary_en": "Division means separating something into parts. It can also be a department in an organization, a disagreement between groups, or the mathematical operation of dividing.",
@@ -1048,20 +1392,28 @@
       "title": "domestication",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-07-28",
-        "mastery": "unassessed",
-        "lemma": "domestication",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-28",
+        "lemma": "domestication",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "domestication",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "驯化：人类经过许多代选择和繁育，使野生动植物逐渐适合与人类共同生活或满足生产需要的过程",
+        "status": "active",
         "forms": [
           "domestication"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "驯化：人类经过许多代选择和繁育，使野生动植物逐渐适合与人类共同生活或满足生产需要的过程。",
       "summary_en": "Domestication is the long-term process through which humans shape a wild species by selecting and breeding it for useful or manageable traits.",
@@ -1072,20 +1424,28 @@
       "title": "donkey",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-07-28",
-        "mastery": "unassessed",
-        "lemma": "donkey",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-28",
+        "lemma": "donkey",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "donkey",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "驴：一种与马近亲、耳朵较长的家养动物，常用于驮运",
+        "status": "active",
         "forms": [
           "donkeys"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "驴：一种与马近亲、耳朵较长的家养动物，常用于驮运。",
       "summary_en": "A donkey is a strong, long-eared animal related to a horse. People have traditionally used it to carry loads and work in dry or mountainous places.",
@@ -1096,20 +1456,28 @@
       "title": "dramatically",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-02",
-        "mastery": "unassessed",
-        "lemma": "dramatically",
         "pos": [
           "adverb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-02",
+        "lemma": "dramatically",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "dramatically",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "显著地；剧烈地；幅度很大地",
+        "status": "active",
         "forms": [
           "dramatically"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "显著地；剧烈地；幅度很大地",
       "summary_en": "Dramatically means in a very large, sudden, or noticeable way. It can also describe behavior that seems theatrical.",
@@ -1120,21 +1488,29 @@
       "title": "drift",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-02",
-        "mastery": "unassessed",
-        "lemma": "drift",
         "pos": [
           "verb",
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-02",
+        "lemma": "drift",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "drift",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "缓慢漂移；在缺少明确控制或方向时移动",
+        "status": "active",
         "forms": [
           "drift"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "缓慢漂移；在缺少明确控制或方向时移动",
       "summary_en": "To drift is to move slowly without firm control or a clear direction. As a noun, it can be a slow movement or gradual change.",
@@ -1145,21 +1521,29 @@
       "title": "dull",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-04",
-        "mastery": "unassessed",
-        "lemma": "dull",
         "pos": [
           "adjective",
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-04",
+        "lemma": "dull",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "dull",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "乏味的；无聊的",
+        "status": "active",
         "forms": [
           "dull"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "乏味的；无聊的",
       "summary_en": "Dull can describe something uninteresting, not bright, not sharp, or not intense. As a verb, it means making something weaker or less clear.",
@@ -1170,21 +1554,29 @@
       "title": "dust",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-01",
-        "mastery": "unassessed",
-        "lemma": "dust",
         "pos": [
           "noun",
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-01",
+        "lemma": "dust",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "dust",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "灰尘、粉尘：空气中或表面上的细小干燥颗粒",
+        "status": "active",
         "forms": [
           "dust"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "灰尘、粉尘：空气中或表面上的细小干燥颗粒。",
       "summary_en": "Dust is very fine dry material that settles on surfaces or floats in the air. As a verb, dust can mean removing such material or lightly covering something with a powder.",
@@ -1195,21 +1587,29 @@
       "title": "ebb",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-05",
-        "mastery": "unassessed",
-        "lemma": "ebb",
         "pos": [
           "verb",
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-05",
+        "lemma": "ebb",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "ebb",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "潮水退去；退潮",
+        "status": "active",
         "forms": [
           "ebbing"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "潮水退去；退潮",
       "summary_en": "To ebb is to flow back like a falling tide, or to gradually become weaker, smaller, or less intense.",
@@ -1220,20 +1620,28 @@
       "title": "echo chamber",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "phrase",
-        "next_review": "2026-08-05",
-        "mastery": "unassessed",
-        "lemma": "echo chamber",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-05",
+        "lemma": "echo chamber",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "echo-chamber",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "source_mismatch",
+        "zh_gloss": "回音室效应；同类观点反复强化、不同意见被过滤的信息环境",
+        "status": "active",
         "forms": [
           "echo chamber"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "phrase"
       },
       "summary_cn": "回音室效应；同类观点反复强化、不同意见被过滤的信息环境",
       "summary_en": "An echo chamber is an environment where similar opinions are repeated and strengthened while opposing information is rarely heard.",
@@ -1244,22 +1652,30 @@
       "title": "endeavor",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-07-26",
-        "mastery": "unassessed",
-        "lemma": "endeavor",
         "pos": [
           "noun",
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-26",
+        "lemma": "endeavor",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "endeavor",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "名词：需要持续投入和努力的活动或尝试",
+        "status": "active",
         "forms": [
           "endeavors.",
           "endeavors"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "名词：需要持续投入和努力的活动或尝试。",
       "summary_en": "An endeavor is a serious effort or project. As a verb, it means to try hard to achieve something.",
@@ -1270,20 +1686,28 @@
       "title": "enliven",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-04",
-        "mastery": "unassessed",
-        "lemma": "enliven",
         "pos": [
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-04",
+        "lemma": "enliven",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "enliven",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "使更有生气；使更活跃",
+        "status": "active",
         "forms": [
           "enlivening"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "使更有生气；使更活跃",
       "summary_en": "To enliven something is to make it more lively, energetic, colorful, or interesting.",
@@ -1294,20 +1718,28 @@
       "title": "enormous",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-02",
-        "mastery": "unassessed",
-        "lemma": "enormous",
         "pos": [
           "adjective"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-02",
+        "lemma": "enormous",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "enormous",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "巨大的；极大的",
+        "status": "active",
         "forms": [
           "enormous"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "巨大的；极大的",
       "summary_en": "Something enormous is extremely large in size, amount, degree, or effect.",
@@ -1318,20 +1750,28 @@
       "title": "enroll",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-06",
-        "mastery": "unassessed",
-        "lemma": "enroll",
         "pos": [
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-06",
+        "lemma": "enroll",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "enroll",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "报名参加；注册加入",
+        "status": "active",
         "forms": [
           "enrolled"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "报名参加；注册加入",
       "summary_en": "To enroll is to officially join a course, program, school, or organization, or to register someone for it.",
@@ -1342,20 +1782,28 @@
       "title": "equator",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-07-30",
-        "mastery": "unassessed",
-        "lemma": "equator",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-30",
+        "lemma": "equator",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "equator",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "赤道：环绕地球中部、与南北两极距离相等的假想线",
+        "status": "active",
         "forms": [
           "Equator"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "赤道：环绕地球中部、与南北两极距离相等的假想线。",
       "summary_en": "The equator is an imaginary circle around the middle of Earth, equally distant from the North and South Poles; similar circles can be defined on other spherical bodies.",
@@ -1366,20 +1814,28 @@
       "title": "equid",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-07-29",
-        "mastery": "unassessed",
-        "lemma": "equid",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-29",
+        "lemma": "equid",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "equid",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "马科动物：属于马科的动物，包括马、驴和斑马等",
+        "status": "active",
         "forms": [
           "equids"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "马科动物：属于马科的动物，包括马、驴和斑马等。",
       "summary_en": "An equid is any member of the horse family, including horses, donkeys, zebras, and their close relatives.",
@@ -1390,21 +1846,29 @@
       "title": "equine",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-07-29",
-        "mastery": "unassessed",
-        "lemma": "equine",
         "pos": [
           "adjective",
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-29",
+        "lemma": "equine",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "equine",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "马的、马科的：与马、驴、斑马等马科动物有关",
+        "status": "active",
         "forms": [
           "equine"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "马的、马科的：与马、驴、斑马等马科动物有关。",
       "summary_en": "Equine describes horses and related animals, or something connected with them. As a noun, it can refer to an animal of the horse family.",
@@ -1415,21 +1879,30 @@
       "title": "esteem",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-07-28",
-        "mastery": "unassessed",
-        "lemma": "esteem",
         "pos": [
           "noun",
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-28",
+        "lemma": "esteem",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "esteem",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "名词：对某人能力、品格或成就的高度尊重",
+        "status": "active",
         "forms": [
-          "esteem"
-        ]
+          "esteem",
+          "self-esteem"
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "名词：对某人能力、品格或成就的高度尊重。",
       "summary_en": "Esteem is strong respect and admiration for someone. As a verb, it means to respect someone greatly or formally consider something in a certain way.",
@@ -1440,20 +1913,28 @@
       "title": "ethical",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-28",
-        "mastery": "unassessed",
-        "lemma": "ethical",
         "pos": [
           "adjective"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-28",
+        "lemma": "ethical",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "ethical",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "与判断行为对错的道德原则有关",
+        "status": "active",
         "forms": [
           "ethical"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "与判断行为对错的道德原则有关。",
       "summary_en": "Ethical describes behavior or decisions that follow accepted principles of right, fairness, and responsibility.",
@@ -1464,20 +1945,28 @@
       "title": "evolutionary",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-07-29",
-        "mastery": "unassessed",
-        "lemma": "evolutionary",
         "pos": [
           "adjective"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-29",
+        "lemma": "evolutionary",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "evolutionary",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "进化的、与生物进化有关的",
+        "status": "active",
         "forms": [
           "evolutionary"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "进化的、与生物进化有关的。",
       "summary_en": "Evolutionary describes biological evolution or any gradual process in which something changes and develops over a long period.",
@@ -1488,20 +1977,28 @@
       "title": "fiction",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-03",
-        "mastery": "unassessed",
-        "lemma": "fiction",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-03",
+        "lemma": "fiction",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "fiction",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "小说；虚构文学",
+        "status": "active",
         "forms": [
           "fiction"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "小说；虚构文学",
       "summary_en": "Fiction is writing or storytelling created from imagination rather than presented as factual history.",
@@ -1512,20 +2009,28 @@
       "title": "financial",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-27",
-        "mastery": "unassessed",
-        "lemma": "financial",
         "pos": [
           "adjective"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-27",
+        "lemma": "financial",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "financial",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "与资金、收入、支出、投资或金融机构有关的",
+        "status": "active",
         "forms": [
           "financial"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "与资金、收入、支出、投资或金融机构有关的。",
       "summary_en": "Financial describes matters related to money, income, costs, investment, or the management of funds.",
@@ -1536,20 +2041,28 @@
       "title": "genetic",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-07-31",
-        "mastery": "unassessed",
-        "lemma": "genetic",
         "pos": [
           "adjective"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-31",
+        "lemma": "genetic",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "genetic",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "遗传的、与基因有关的：由基因影响，或涉及遗传物质和遗传关系",
+        "status": "active",
         "forms": [
           "genetic"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "遗传的、与基因有关的：由基因影响，或涉及遗传物质和遗传关系。",
       "summary_en": "Genetic describes genes, inherited biological information, or traits and relationships that are influenced by that information.",
@@ -1560,20 +2073,28 @@
       "title": "genome",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-07-29",
-        "mastery": "unassessed",
-        "lemma": "genome",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-29",
+        "lemma": "genome",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "genome",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "基因组：一个生物体或细胞所包含的完整遗传物质",
+        "status": "active",
         "forms": [
           "genomes"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "基因组：一个生物体或细胞所包含的完整遗传物质。",
       "summary_en": "A genome is the complete set of genetic material carried by an organism or cell, including the DNA needed for its structure, development, and biological functions.",
@@ -1584,21 +2105,29 @@
       "title": "glut",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-08-01",
-        "mastery": "unassessed",
-        "lemma": "glut",
         "pos": [
           "noun",
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-01",
+        "lemma": "glut",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "glut",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "过剩、供过于求：某种商品、信息或资源多到超过需求",
+        "status": "active",
         "forms": [
           "glut"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "过剩、供过于求：某种商品、信息或资源多到超过需求。",
       "summary_en": "A glut is an excessive supply of something, especially more than a market or group can use. To glut a market is to fill it with too much of that thing.",
@@ -1609,20 +2138,28 @@
       "title": "guild",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-07-31",
-        "mastery": "unassessed",
-        "lemma": "guild",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-31",
+        "lemma": "guild",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "guild",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "行会、同业协会：历史上由同一行业的工匠或商人组成、制定规则并保护成员利益的组织",
+        "status": "active",
         "forms": [
           "Guild"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "行会、同业协会：历史上由同一行业的工匠或商人组成、制定规则并保护成员利益的组织。",
       "summary_en": "A guild is an organized group of people who share a trade, profession, craft, or activity and cooperate to set standards, protect interests, or work toward common goals.",
@@ -1633,21 +2170,29 @@
       "title": "handle",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-04",
-        "mastery": "unassessed",
-        "lemma": "handle",
         "pos": [
           "verb",
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-04",
+        "lemma": "handle",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "handle",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "处理；应对；操作",
+        "status": "active",
         "forms": [
           "handle"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "处理；应对；操作",
       "summary_en": "To handle something is to deal with, control, or operate it. A handle is the part designed to be held, or sometimes a name used online.",
@@ -1658,21 +2203,29 @@
       "title": "hazard",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-24",
-        "mastery": "unassessed",
-        "lemma": "hazard",
         "pos": [
           "noun",
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-24",
+        "lemma": "hazard",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "hazard",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "名词：可能造成伤害、损失或事故的危险因素",
+        "status": "active",
         "forms": [
           "hazard"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "名词：可能造成伤害、损失或事故的危险因素。",
       "summary_en": "A hazard is something that can cause harm. As a verb, it means to risk saying or doing something when the result is uncertain.",
@@ -1683,20 +2236,28 @@
       "title": "herder",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-07-30",
-        "mastery": "unassessed",
-        "lemma": "herder",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-30",
+        "lemma": "herder",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "herder",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "牧民、放牧者：照料并驱赶成群牲畜的人",
+        "status": "active",
         "forms": [
           "herders"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "牧民、放牧者：照料并驱赶成群牲畜的人。",
       "summary_en": "A herder is a person who looks after and moves a herd of animals such as cattle, sheep, goats, horses, or donkeys.",
@@ -1707,20 +2268,28 @@
       "title": "imitation",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-07-26",
-        "mastery": "unassessed",
-        "lemma": "imitation",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-26",
+        "lemma": "imitation",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "imitation",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "复制某人的动作、声音、风格或方法",
+        "status": "active",
         "forms": [
           "imitation"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "复制某人的动作、声音、风格或方法。",
       "summary_en": "Imitation is the act of copying someone or something, or an object made to look like the real one.",
@@ -1731,20 +2300,28 @@
       "title": "incentive",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-01",
-        "mastery": "unassessed",
-        "lemma": "incentive",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-01",
+        "lemma": "incentive",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "incentive",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "激励、动力：使人愿意采取某种行动的原因",
+        "status": "active",
         "forms": [
           "incentives"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "激励、动力：使人愿意采取某种行动的原因。",
       "summary_en": "An incentive is a reason, reward, or benefit that encourages a person or organization to take a particular action.",
@@ -1755,21 +2332,29 @@
       "title": "infinite",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-05",
-        "mastery": "unassessed",
-        "lemma": "infinite",
         "pos": [
           "adjective",
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-05",
+        "lemma": "infinite",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "infinite",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "无限的；无穷的",
+        "status": "active",
         "forms": [
           "infinite"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "无限的；无穷的",
       "summary_en": "Infinite means having no end, limit, or measurable boundary.",
@@ -1780,20 +2365,28 @@
       "title": "insight",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-31",
-        "mastery": "unassessed",
-        "lemma": "insight",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-31",
+        "lemma": "insight",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "insight",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "深刻理解、洞察力：看清复杂问题内部机制的能力",
+        "status": "active",
         "forms": [
           "insights"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "深刻理解、洞察力：看清复杂问题内部机制的能力。",
       "summary_en": "Insight is a clear and deep understanding of a person, problem, or situation, or a useful new idea gained from such understanding.",
@@ -1804,20 +2397,28 @@
       "title": "intertwine",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-29",
-        "mastery": "unassessed",
-        "lemma": "intertwine",
         "pos": [
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-29",
+        "lemma": "intertwine",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "intertwine",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "缠绕在一起：两条或多条细长物彼此绕合",
+        "status": "active",
         "forms": [
           "intertwined"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "缠绕在一起：两条或多条细长物彼此绕合。",
       "summary_en": "To intertwine is to twist things together or to connect ideas, events, or lives so closely that they become difficult to separate.",
@@ -1828,20 +2429,28 @@
       "title": "introduce",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-24",
-        "mastery": "unassessed",
-        "lemma": "introduce",
         "pos": [
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-24",
+        "lemma": "introduce",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "introduce",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "让彼此不认识的人相识；首次介绍某个主题",
+        "status": "active",
         "forms": [
           "Introducing"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "让彼此不认识的人相识；首次介绍某个主题。",
       "summary_en": "To introduce is to present a person or idea for the first time, or to bring something new into use.",
@@ -1852,20 +2461,28 @@
       "title": "investigate",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-28",
-        "mastery": "unassessed",
-        "lemma": "investigate",
         "pos": [
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-28",
+        "lemma": "investigate",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "investigate",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "调查：系统查明事件、问题或可能违法行为的事实",
+        "status": "active",
         "forms": [
           "investigated"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "调查：系统查明事件、问题或可能违法行为的事实。",
       "summary_en": "To investigate something is to examine it carefully and systematically in order to discover facts, causes, or an explanation.",
@@ -1876,20 +2493,28 @@
       "title": "laboratory",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-06",
-        "mastery": "unassessed",
-        "lemma": "laboratory",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-06",
+        "lemma": "laboratory",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "laboratory",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "实验室；进行科学实验、测试或分析的场所",
+        "status": "active",
         "forms": [
           "Laboratory"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "实验室；进行科学实验、测试或分析的场所",
       "summary_en": "A laboratory is a place equipped for scientific experiments, measurements, tests, or careful technical work.",
@@ -1900,21 +2525,29 @@
       "title": "mandate",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-05",
-        "mastery": "unassessed",
-        "lemma": "mandate",
         "pos": [
           "noun",
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-05",
+        "lemma": "mandate",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "mandate",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "授权；委托；正式职责",
+        "status": "active",
         "forms": [
           "mandate"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "授权；委托；正式职责",
       "summary_en": "A mandate is official authority or a formal instruction to do something. To mandate something is to require it by rule or authority.",
@@ -1925,21 +2558,29 @@
       "title": "manual",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-08-04",
-        "mastery": "unassessed",
-        "lemma": "manual",
         "pos": [
           "adjective",
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-04",
+        "lemma": "manual",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "manual",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "手工的；手动操作的；体力劳动的",
+        "status": "active",
         "forms": [
           "manual"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "手工的；手动操作的；体力劳动的",
       "summary_en": "Manual describes work or control done by hand rather than automatically. As a noun, a manual is a book of instructions.",
@@ -1950,20 +2591,28 @@
       "title": "melodramatic",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-07-31",
-        "mastery": "unassessed",
-        "lemma": "melodramatic",
         "pos": [
           "adjective"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-31",
+        "lemma": "melodramatic",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "melodramatic",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "过分煽情的、夸张戏剧化的：情绪、语言或行为强烈到显得不自然",
+        "status": "active",
         "forms": [
           "melodramatic"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "过分煽情的、夸张戏剧化的：情绪、语言或行为强烈到显得不自然。",
       "summary_en": "Melodramatic describes speech, behavior, or a story that presents emotion and conflict in an exaggerated way, often making a situation seem more dramatic than it really is.",
@@ -1974,22 +2623,30 @@
       "title": "mock",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-03",
-        "mastery": "unassessed",
-        "lemma": "mock",
         "pos": [
           "verb",
           "adjective",
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-03",
+        "lemma": "mock",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "mock",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "嘲笑；以轻蔑方式模仿",
+        "status": "active",
         "forms": [
           "mocks"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "嘲笑；以轻蔑方式模仿",
       "summary_en": "To mock someone is to make fun of them in an unkind way. Mock can also describe something made for practice or imitation rather than real use.",
@@ -2000,20 +2657,28 @@
       "title": "narrate",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-07-24",
-        "mastery": "unassessed",
-        "lemma": "narrate",
         "pos": [
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-24",
+        "lemma": "narrate",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "narrate",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "按事件顺序讲述故事、经历或过程",
+        "status": "active",
         "forms": [
           "narrating"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "按事件顺序讲述故事、经历或过程。",
       "summary_en": "To narrate is to tell a story or describe a series of events, often in a clear order or as a voice-over.",
@@ -2024,21 +2689,29 @@
       "title": "narrow",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-31",
-        "mastery": "unassessed",
-        "lemma": "narrow",
         "pos": [
           "adjective",
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-31",
+        "lemma": "narrow",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "narrow",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "狭窄的：宽度很小",
+        "status": "active",
         "forms": [
           "narrow"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "狭窄的：宽度很小。",
       "summary_en": "Narrow describes something with little width or limited range. As a verb, it means to make a space, gap, choice, or focus smaller.",
@@ -2049,20 +2722,28 @@
       "title": "navigate",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-30",
-        "mastery": "unassessed",
-        "lemma": "navigate",
         "pos": [
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-30",
+        "lemma": "navigate",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "navigate",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "导航、确定路线：控制船、飞机或车辆到达目的地",
+        "status": "active",
         "forms": [
           "navigate"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "导航、确定路线：控制船、飞机或车辆到达目的地。",
       "summary_en": "To navigate is to find and follow a route through a place, system, or difficult situation, sometimes while guiding a vehicle or another person.",
@@ -2073,20 +2754,28 @@
       "title": "newness",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-08-03",
-        "mastery": "unassessed",
-        "lemma": "newness",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-03",
+        "lemma": "newness",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "newness",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "新颖；新鲜感",
+        "status": "active",
         "forms": [
           "newness"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "新颖；新鲜感",
       "summary_en": "Newness is the quality of being new, recent, unfamiliar, or fresh to someone.",
@@ -2097,21 +2786,29 @@
       "title": "niche",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-05",
-        "mastery": "unassessed",
-        "lemma": "niche",
         "pos": [
           "noun",
           "adjective"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-05",
+        "lemma": "niche",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "niche",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "生态位；适合某人或某物的特定位置",
+        "status": "active",
         "forms": [
           "niche"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "生态位；适合某人或某物的特定位置",
       "summary_en": "A niche is a specialized place, role, or market where a person, product, or species fits particularly well.",
@@ -2122,22 +2819,30 @@
       "title": "peak",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-01",
-        "mastery": "unassessed",
-        "lemma": "peak",
         "pos": [
           "noun",
           "adjective",
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-01",
+        "lemma": "peak",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "peak",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "山峰、尖顶：山或形状的最高部分",
+        "status": "active",
         "forms": [
           "peak"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "山峰、尖顶：山或形状的最高部分。",
       "summary_en": "A peak is the highest point of a mountain, shape, amount, or activity. As a verb, something peaks when it reaches its highest level; as an adjective, peak describes that busiest or strongest level.",
@@ -2148,20 +2853,29 @@
       "title": "perception",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-28",
-        "mastery": "unassessed",
-        "lemma": "perception",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-28",
+        "lemma": "perception",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "perception",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "通过感官察觉和理解外界信息的过程",
+        "status": "active",
         "forms": [
-          "perception"
-        ]
+          "perception",
+          "self-perception"
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "通过感官察觉和理解外界信息的过程。",
       "summary_en": "Perception is the way we notice and interpret information, or the opinion and impression we form about something.",
@@ -2172,20 +2886,28 @@
       "title": "perpetuate",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-07-28",
-        "mastery": "unassessed",
-        "lemma": "perpetuate",
         "pos": [
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-28",
+        "lemma": "perpetuate",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "perpetuate",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "使某种情况、观念或做法持续很长时间，常用于问题、偏见或错误循环",
+        "status": "active",
         "forms": [
           "perpetuating"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "使某种情况、观念或做法持续很长时间，常用于问题、偏见或错误循环。",
       "summary_en": "To perpetuate something is to make it continue for a long time, especially when it is a problem, belief, or pattern.",
@@ -2196,20 +2918,29 @@
       "title": "persuade",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-02",
-        "mastery": "unassessed",
-        "lemma": "persuade",
         "pos": [
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-02",
+        "lemma": "persuade",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "persuade",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "说服；使某人相信或同意",
+        "status": "active",
         "forms": [
-          "persuade"
-        ]
+          "persuade",
+          "Persuading"
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "说服；使某人相信或同意",
       "summary_en": "To persuade someone is to make them agree, believe something, or take action by giving reasons or appealing to their feelings.",
@@ -2220,22 +2951,30 @@
       "title": "pinpoint",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-30",
-        "mastery": "unassessed",
-        "lemma": "pinpoint",
         "pos": [
           "verb",
           "noun",
           "adjective"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-30",
+        "lemma": "pinpoint",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "pinpoint",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "精确确定、查明：找出准确位置、时间、原因或对象",
+        "status": "active",
         "forms": [
           "pinpoint"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "精确确定、查明：找出准确位置、时间、原因或对象。",
       "summary_en": "To pinpoint something is to identify its exact position, time, cause, or nature. The noun and adjective uses emphasize a very small or precisely defined point.",
@@ -2246,21 +2985,29 @@
       "title": "pioneer",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-02",
-        "mastery": "unassessed",
-        "lemma": "pioneer",
         "pos": [
           "noun",
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-02",
+        "lemma": "pioneer",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "pioneer",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "先驱；开拓者",
+        "status": "active",
         "forms": [
           "pioneers"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "先驱；开拓者",
       "summary_en": "A pioneer is one of the first people to explore or develop an area. To pioneer something is to introduce or develop it before it becomes common.",
@@ -2271,21 +3018,29 @@
       "title": "plenty",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-01",
-        "mastery": "unassessed",
-        "lemma": "plenty",
         "pos": [
           "pronoun",
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-01",
+        "lemma": "plenty",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "plenty",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "大量、充足：数量足够，通常还有余量",
+        "status": "active",
         "forms": [
           "plenty"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "大量、充足：数量足够，通常还有余量。",
       "summary_en": "Plenty means enough or more than enough of something, especially when the available amount removes any need to worry about shortage.",
@@ -2296,20 +3051,28 @@
       "title": "preservation",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-07-26",
-        "mastery": "unassessed",
-        "lemma": "preservation",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-26",
+        "lemma": "preservation",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "preservation",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "防止某物损坏、消失或发生不希望的变化",
+        "status": "active",
         "forms": [
           "preservation"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "防止某物损坏、消失或发生不希望的变化。",
       "summary_en": "Preservation is the act of protecting something so that it remains safe, usable, or close to its original condition.",
@@ -2320,20 +3083,28 @@
       "title": "prior to",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "phrase",
-        "next_review": "2026-07-26",
-        "mastery": "unassessed",
-        "lemma": "prior to",
         "pos": [
           "prepositional_phrase"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-26",
+        "lemma": "prior to",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "prior-to",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "表示某件事发生在另一事件或时间点之前，语气较正式",
+        "status": "active",
         "forms": [
           "prior to"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "phrase"
       },
       "summary_cn": "表示某件事发生在另一事件或时间点之前，语气较正式。",
       "summary_en": "Prior to means before a particular time or event, especially in formal writing.",
@@ -2344,20 +3115,28 @@
       "title": "procedure",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-27",
-        "mastery": "unassessed",
-        "lemma": "procedure",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-27",
+        "lemma": "procedure",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "procedure",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "为完成任务而按顺序执行的一套正式步骤",
+        "status": "active",
         "forms": [
           "procedure"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "为完成任务而按顺序执行的一套正式步骤。",
       "summary_en": "A procedure is an established series of steps for completing a task, or a medical action performed for diagnosis or treatment.",
@@ -2368,20 +3147,28 @@
       "title": "propel",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-29",
-        "mastery": "unassessed",
-        "lemma": "propel",
         "pos": [
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-29",
+        "lemma": "propel",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "propel",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "推进：用力使物体向前移动",
+        "status": "active",
         "forms": [
           "propelling"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "推进：用力使物体向前移动。",
       "summary_en": "To propel something is to drive it forward, either by physical force or by giving a person, idea, or process the energy to advance quickly.",
@@ -2392,21 +3179,29 @@
       "title": "prospect",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-07-24",
-        "mastery": "unassessed",
-        "lemma": "prospect",
         "pos": [
           "noun",
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-24",
+        "lemma": "prospect",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "prospect",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "名词：未来发生或成功的可能性、前景；潜在客户或候选对象",
+        "status": "active",
         "forms": [
           "prospect"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "名词：未来发生或成功的可能性、前景；潜在客户或候选对象。",
       "summary_en": "A prospect is a possible future situation or a chance of success. It can also mean a person who may become a customer, while the verb means to search for valuable resources.",
@@ -2417,20 +3212,28 @@
       "title": "provocative",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-07-27",
-        "mastery": "unassessed",
-        "lemma": "provocative",
         "pos": [
           "adjective"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-27",
+        "lemma": "provocative",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "provocative",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "故意引起愤怒、争议或强烈反应的",
+        "status": "active",
         "forms": [
           "provocative"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "故意引起愤怒、争议或强烈反应的。",
       "summary_en": "Provocative describes something that is likely to cause a strong reaction, either by challenging people or by making them think deeply.",
@@ -2441,20 +3244,28 @@
       "title": "pursue",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-31",
-        "mastery": "unassessed",
-        "lemma": "pursue",
         "pos": [
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-31",
+        "lemma": "pursue",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "pursue",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "追赶、追踪：跟在某人或某物后面试图抓住",
+        "status": "active",
         "forms": [
           "pursue"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "追赶、追踪：跟在某人或某物后面试图抓住。",
       "summary_en": "To pursue is to follow someone in order to catch them, or to keep working toward a goal, activity, career, or line of inquiry over time.",
@@ -2465,21 +3276,29 @@
       "title": "recall",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-27",
-        "mastery": "unassessed",
-        "lemma": "recall",
         "pos": [
           "verb",
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-27",
+        "lemma": "recall",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "recall",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "动词：记起过去的信息或经历；要求产品、人员等返回",
+        "status": "active",
         "forms": [
           "recall"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "动词：记起过去的信息或经历；要求产品、人员等返回。",
       "summary_en": "To recall is to bring information back to mind or to call something back. As a noun, recall is the ability or act of remembering or returning a product.",
@@ -2490,20 +3309,28 @@
       "title": "reflect",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-26",
-        "mastery": "unassessed",
-        "lemma": "reflect",
         "pos": [
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-26",
+        "lemma": "reflect",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "reflect",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "显示或体现某种事实、性质或变化",
+        "status": "active",
         "forms": [
           "reflect"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "显示或体现某种事实、性质或变化。",
       "summary_en": "To reflect can mean to show a fact or quality, to send light or sound back, or to think carefully about an experience.",
@@ -2514,20 +3341,28 @@
       "title": "regardless of",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "phrase",
-        "next_review": "2026-07-26",
-        "mastery": "unassessed",
-        "lemma": "regardless of",
         "pos": [
           "prepositional_phrase"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-26",
+        "lemma": "regardless of",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "regardless-of",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "表示某个事实或条件不会改变决定、结果或行动",
+        "status": "active",
         "forms": [
           "regardless of"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "phrase"
       },
       "summary_cn": "表示某个事实或条件不会改变决定、结果或行动。",
       "summary_en": "Regardless of means that something does not change a decision or result, even if it might normally matter.",
@@ -2538,21 +3373,29 @@
       "title": "reserve",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-25",
-        "mastery": "unassessed",
-        "lemma": "reserve",
         "pos": [
           "noun",
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-25",
+        "lemma": "reserve",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "reserve",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "动词：预订座位、房间等；保留某物供特定用途",
+        "status": "active",
         "forms": [
           "reserve"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "动词：预订座位、房间等；保留某物供特定用途。",
       "summary_en": "To reserve something is to keep it for a particular person, time, or purpose. A reserve is an extra supply kept for future need.",
@@ -2563,20 +3406,28 @@
       "title": "result from",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "phrase",
-        "next_review": "2026-07-25",
-        "mastery": "unassessed",
-        "lemma": "result from",
         "pos": [
           "verb_phrase"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-25",
+        "lemma": "result from",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "result-from",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "表示某个结果由后面的原因产生，相当于“源于、由……造成”",
+        "status": "active",
         "forms": [
           "result from"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "phrase"
       },
       "summary_cn": "表示某个结果由后面的原因产生，相当于“源于、由……造成”。",
       "summary_en": "If something results from a cause, it happens because of that cause.",
@@ -2587,21 +3438,29 @@
       "title": "reveal",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-31",
-        "mastery": "unassessed",
-        "lemma": "reveal",
         "pos": [
           "verb",
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-31",
+        "lemma": "reveal",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "reveal",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "揭示、显示：让原本不清楚的信息或特征变得可见",
+        "status": "active",
         "forms": [
           "reveal"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "揭示、显示：让原本不清楚的信息或特征变得可见。",
       "summary_en": "To reveal something is to make previously hidden, unknown, or unclear information visible or known. As a noun, a reveal is the moment something is publicly shown.",
@@ -2612,20 +3471,28 @@
       "title": "revenue",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-02",
-        "mastery": "unassessed",
-        "lemma": "revenue",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-02",
+        "lemma": "revenue",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "revenue",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "收入；收益，尤指企业或政府在扣除成本前取得的款项",
+        "status": "active",
         "forms": [
           "revenue"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "收入；收益，尤指企业或政府在扣除成本前取得的款项",
       "summary_en": "Revenue is the money a business, organization, or government receives from its normal activities before costs are taken away.",
@@ -2636,21 +3503,29 @@
       "title": "scar",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-06",
-        "mastery": "unassessed",
-        "lemma": "scar",
         "pos": [
           "noun",
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-06",
+        "lemma": "scar",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "scar",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "伤疤；创伤留下的痕迹",
+        "status": "active",
         "forms": [
           "scars"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "伤疤；创伤留下的痕迹",
       "summary_en": "A scar is a lasting mark left after a wound heals. The word can also describe a lasting emotional or physical effect.",
@@ -2661,20 +3536,28 @@
       "title": "seize",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-26",
-        "mastery": "unassessed",
-        "lemma": "seize",
         "pos": [
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-26",
+        "lemma": "seize",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "seize",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "突然或用力抓住某物；依法扣押或强行控制",
+        "status": "active",
         "forms": [
           "seize"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "突然或用力抓住某物；依法扣押或强行控制。",
       "summary_en": "To seize is to take hold of something quickly or by force, or to make immediate use of an opportunity.",
@@ -2685,20 +3568,28 @@
       "title": "sentiment",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-07-24",
-        "mastery": "unassessed",
-        "lemma": "sentiment",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-24",
+        "lemma": "sentiment",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "sentiment",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "对某件事持有的看法或感受，常指群体态度",
+        "status": "active",
         "forms": [
           "sentiments"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "对某件事持有的看法或感受，常指群体态度。",
       "summary_en": "A sentiment is a feeling or opinion about something, especially one shared or expressed by a group of people.",
@@ -2709,21 +3600,29 @@
       "title": "sequence",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-29",
-        "mastery": "unassessed",
-        "lemma": "sequence",
         "pos": [
           "noun",
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-29",
+        "lemma": "sequence",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "sequence",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "顺序、次序：事物排列或发生的先后关系",
+        "status": "active",
         "forms": [
           "sequences"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "顺序、次序：事物排列或发生的先后关系。",
       "summary_en": "A sequence is an ordered series of things or events. As a verb, sequence means to arrange items in order or to determine the order of genetic material.",
@@ -2734,20 +3633,28 @@
       "title": "serendipity",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-04",
-        "mastery": "unassessed",
-        "lemma": "serendipity",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-04",
+        "lemma": "serendipity",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "serendipity",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "意外发现美好或有价值事物的幸运",
+        "status": "active",
         "forms": [
           "serendipity"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "意外发现美好或有价值事物的幸运",
       "summary_en": "Serendipity is the happy chance of finding something useful or valuable while looking for something else.",
@@ -2758,21 +3665,29 @@
       "title": "sheer",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-08-03",
-        "mastery": "unassessed",
-        "lemma": "sheer",
         "pos": [
           "adjective",
           "adverb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-03",
+        "lemma": "sheer",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "sheer",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "完全的；十足的，用于强调程度",
+        "status": "active",
         "forms": [
           "sheer"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "完全的；十足的，用于强调程度",
       "summary_en": "Sheer can emphasize that something is complete or extreme. It can also describe a very steep surface or thin, almost transparent material.",
@@ -2783,21 +3698,29 @@
       "title": "shrink",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-05",
-        "mastery": "unassessed",
-        "lemma": "shrink",
         "pos": [
           "verb",
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-05",
+        "lemma": "shrink",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "shrink",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "收缩；缩水；变小",
+        "status": "active",
         "forms": [
           "shrink"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "收缩；缩水；变小",
       "summary_en": "To shrink is to become smaller or to make something smaller. It can also mean pulling back because of fear or discomfort.",
@@ -2808,20 +3731,28 @@
       "title": "simultaneously",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-03",
-        "mastery": "unassessed",
-        "lemma": "simultaneously",
         "pos": [
           "adverb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-03",
+        "lemma": "simultaneously",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "simultaneously",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "同时地；在同一时间发生地",
+        "status": "active",
         "forms": [
           "simultaneously"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "同时地；在同一时间发生地",
       "summary_en": "Simultaneously means happening or being done at the same time.",
@@ -2832,20 +3763,28 @@
       "title": "slip away",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "phrase",
-        "next_review": "2026-08-01",
-        "mastery": "unassessed",
-        "lemma": "slip away",
         "pos": [
           "phrasal verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-01",
+        "lemma": "slip away",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "slip-away",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "悄悄离开：不引人注意地离开某地",
+        "status": "active",
         "forms": [
           "slipping away"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "phrase"
       },
       "summary_cn": "悄悄离开：不引人注意地离开某地。",
       "summary_en": "To slip away is to leave quietly or to disappear, pass, or become lost gradually. In sensitive contexts, it can be a gentle way to say that someone died.",
@@ -2856,21 +3795,29 @@
       "title": "spotlight",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-30",
-        "mastery": "unassessed",
-        "lemma": "spotlight",
         "pos": [
           "noun",
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-30",
+        "lemma": "spotlight",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "spotlight",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "聚光灯：把强光集中照向小范围的灯",
+        "status": "active",
         "forms": [
           "spotlight"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "聚光灯：把强光集中照向小范围的灯。",
       "summary_en": "A spotlight is a strong light focused on one area; figuratively, it is intense public attention. To spotlight something is to draw special attention to it.",
@@ -2881,20 +3828,28 @@
       "title": "startlingly",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-05",
-        "mastery": "unassessed",
-        "lemma": "startlingly",
         "pos": [
           "adverb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-05",
+        "lemma": "startlingly",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "startlingly",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "惊人地；令人吃惊地",
+        "status": "active",
         "forms": [
           "startlingly"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "惊人地；令人吃惊地",
       "summary_en": "Startlingly means in a way that is surprisingly strong, unusual, or sudden enough to catch attention.",
@@ -2905,20 +3860,28 @@
       "title": "stethoscope",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-08-05",
-        "mastery": "unassessed",
-        "lemma": "stethoscope",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-05",
+        "lemma": "stethoscope",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "stethoscope",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "听诊器",
+        "status": "active",
         "forms": [
           "stethoscope"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "听诊器",
       "summary_en": "A stethoscope is a medical instrument used to listen to sounds inside the body, especially the heart and lungs.",
@@ -2929,21 +3892,29 @@
       "title": "stuff",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-30",
-        "mastery": "unassessed",
-        "lemma": "stuff",
         "pos": [
           "noun",
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-30",
+        "lemma": "stuff",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "stuff",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "东西、材料：非正式地统称物品或物质",
+        "status": "active",
         "forms": [
           "stuff"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "东西、材料：非正式地统称物品或物质。",
       "summary_en": "Stuff is an informal general word for things, material, or activities whose exact names are unnecessary. As a verb, it means to fill a space tightly or push something into it.",
@@ -2954,20 +3925,28 @@
       "title": "suspend",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-31",
-        "mastery": "unassessed",
-        "lemma": "suspend",
         "pos": [
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-31",
+        "lemma": "suspend",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "suspend",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "暂停、中止：暂时停止活动、服务、规则或判断",
+        "status": "active",
         "forms": [
           "suspended"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "暂停、中止：暂时停止活动、服务、规则或判断。",
       "summary_en": "To suspend something is to stop it temporarily, remove a person's rights for a period, hang it from above, or keep small particles floating in a substance.",
@@ -2978,20 +3957,28 @@
       "title": "suspicion",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-25",
-        "mastery": "unassessed",
-        "lemma": "suspicion",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-25",
+        "lemma": "suspicion",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "suspicion",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "没有充分证据却认为某事可能为真的想法",
+        "status": "active",
         "forms": [
           "suspicions"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "没有充分证据却认为某事可能为真的想法。",
       "summary_en": "A suspicion is a belief or feeling that something may be true or that someone may have done something wrong, even though there is not enough proof.",
@@ -3002,20 +3989,28 @@
       "title": "sympathetic",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-05",
-        "mastery": "unassessed",
-        "lemma": "sympathetic",
         "pos": [
           "adjective"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-05",
+        "lemma": "sympathetic",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "sympathetic",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "有同情心的；表示理解的",
+        "status": "active",
         "forms": [
           "sympathetic"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "有同情心的；表示理解的",
       "summary_en": "Sympathetic often means showing understanding and care for someone's difficulties, or being generally supportive of an idea.",
@@ -3026,21 +4021,29 @@
       "title": "tailor",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-27",
-        "mastery": "unassessed",
-        "lemma": "tailor",
         "pos": [
           "verb",
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-27",
+        "lemma": "tailor",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "tailor",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "动词：针对特定人、目标或场景调整内容、服务或方案",
+        "status": "active",
         "forms": [
           "tailored"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "动词：针对特定人、目标或场景调整内容、服务或方案。",
       "summary_en": "To tailor something is to adapt it for a particular person or purpose. A tailor is a person who makes or changes clothes.",
@@ -3051,21 +4054,29 @@
       "title": "tame",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-29",
-        "mastery": "unassessed",
-        "lemma": "tame",
         "pos": [
           "verb",
           "adjective"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-29",
+        "lemma": "tame",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "tame",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "驯服：使一只动物不再惧怕人、较易控制",
+        "status": "active",
         "forms": [
           "tamed"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "驯服：使一只动物不再惧怕人、较易控制。",
       "summary_en": "To tame an animal is to make it calmer and more manageable; more broadly, to tame something is to bring a difficult force or problem under control. As an adjective, tame means not wild or not very exciting.",
@@ -3076,21 +4087,29 @@
       "title": "testimony",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-29",
-        "mastery": "unassessed",
-        "lemma": "testimony",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-24",
+        "lemma": "testimony",
+        "encounter_count": 2,
+        "review_priority": "high",
+        "priority_score": 60,
         "public_slug": "testimony",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "证词、证言：证人在法庭或正式调查中陈述的内容",
+        "status": "active",
         "forms": [
           "testimony",
           "testimonies"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "证词、证言：证人在法庭或正式调查中陈述的内容。",
       "summary_en": "Testimony is a formal statement about what someone knows or experienced, especially in court; it can also be evidence that clearly demonstrates a fact or quality.",
@@ -3101,20 +4120,28 @@
       "title": "the rest of",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "phrase",
-        "next_review": "2026-07-30",
-        "mastery": "unassessed",
-        "lemma": "the rest of",
         "pos": [
           "phrase"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-30",
+        "lemma": "the rest of",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "the-rest-of",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "其余的、剩下的：在已经提到或取出一部分之后，指未包含的部分",
+        "status": "active",
         "forms": [
           "the rest of"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "phrase"
       },
       "summary_cn": "其余的、剩下的：在已经提到或取出一部分之后，指未包含的部分。",
       "summary_en": "The rest of means the part or people that remain after one part has already been mentioned, used, removed, or separated.",
@@ -3125,20 +4152,28 @@
       "title": "transferable",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-01",
-        "mastery": "unassessed",
-        "lemma": "transferable",
         "pos": [
           "adjective"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-01",
+        "lemma": "transferable",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "transferable",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "可转移、可转让的：权利、票据、资金或所有权能交给其他人或地方",
+        "status": "active",
         "forms": [
           "transferable"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "可转移、可转让的：权利、票据、资金或所有权能交给其他人或地方。",
       "summary_en": "Transferable describes something that can be moved, passed to another owner, or applied successfully in a different job, place, or situation.",
@@ -3149,21 +4184,29 @@
       "title": "tune",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-04",
-        "mastery": "unassessed",
-        "lemma": "tune",
         "pos": [
           "noun",
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-04",
+        "lemma": "tune",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "tune",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "曲调；旋律",
+        "status": "active",
         "forms": [
           "tunes"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "曲调；旋律",
       "summary_en": "A tune is a simple melody. To tune something is to adjust it so that it sounds or works correctly.",
@@ -3174,20 +4217,28 @@
       "title": "unattainable",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "recognition",
-        "next_review": "2026-07-28",
-        "mastery": "unassessed",
-        "lemma": "unattainable",
         "pos": [
           "adjective"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-28",
+        "lemma": "unattainable",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 30,
         "public_slug": "unattainable",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "无法实现、达到或获得的，通常因为目标超出现实条件",
+        "status": "active",
         "forms": [
           "unattainable"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "recognition"
       },
       "summary_cn": "无法实现、达到或获得的，通常因为目标超出现实条件。",
       "summary_en": "Unattainable describes a goal, standard, or object that cannot realistically be reached or obtained.",
@@ -3198,20 +4249,28 @@
       "title": "unpretentious",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-04",
-        "mastery": "unassessed",
-        "lemma": "unpretentious",
         "pos": [
           "adjective"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-04",
+        "lemma": "unpretentious",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "unpretentious",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "朴实无华的；不炫耀的",
+        "status": "active",
         "forms": [
           "unpretentious"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "朴实无华的；不炫耀的",
       "summary_en": "Someone or something unpretentious is simple, natural, and not trying to seem more important, expensive, or sophisticated than it really is.",
@@ -3222,20 +4281,28 @@
       "title": "vehicle",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-07-27",
-        "mastery": "unassessed",
-        "lemma": "vehicle",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-07-27",
+        "lemma": "vehicle",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "vehicle",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "用于运送人或物的交通工具",
+        "status": "active",
         "forms": [
           "vehicle"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "用于运送人或物的交通工具。",
       "summary_en": "A vehicle is a machine used for transport. Figuratively, it is a means through which an idea, message, or goal is carried forward.",
@@ -3246,21 +4313,29 @@
       "title": "verbatim",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-03",
-        "mastery": "unassessed",
-        "lemma": "verbatim",
         "pos": [
           "adverb",
           "adjective"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-03",
+        "lemma": "verbatim",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "verbatim",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "逐字地；一字不差地",
+        "status": "active",
         "forms": [
           "verbatim"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "逐字地；一字不差地",
       "summary_en": "Verbatim means using exactly the same words as the original, without paraphrasing or changing them.",
@@ -3271,20 +4346,28 @@
       "title": "volume",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-01",
-        "mastery": "unassessed",
-        "lemma": "volume",
         "pos": [
           "noun"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-01",
+        "lemma": "volume",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "volume",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "体积、容积：物体或空间占据的三维大小",
+        "status": "active",
         "forms": [
           "volume"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "体积、容积：物体或空间占据的三维大小。",
       "summary_en": "Volume can mean the amount of three-dimensional space something occupies, the total quantity of activity or material, the loudness of sound, or one book in a set.",
@@ -3295,21 +4378,29 @@
       "title": "whistle",
       "kind": "vocabulary",
       "metadata": {
-        "status": "active",
-        "type": "concept",
-        "study_mode": "production",
-        "next_review": "2026-08-04",
-        "mastery": "unassessed",
-        "lemma": "whistle",
         "pos": [
           "noun",
           "verb"
         ],
+        "type": "concept",
+        "last_seen": "2026-07-21",
+        "mastery": "unassessed",
+        "next_review": "2026-08-04",
+        "lemma": "whistle",
+        "encounter_count": 1,
+        "review_priority": "normal",
+        "priority_score": 40,
         "public_slug": "whistle",
-        "context_status": "needs_context",
+        "lapse_count": 0,
+        "context_status": "verified",
+        "zh_gloss": "口哨声；哨子",
+        "status": "active",
         "forms": [
           "whistle"
-        ]
+        ],
+        "first_seen": "2026-07-21",
+        "review_count": 0,
+        "study_mode": "production"
       },
       "summary_cn": "口哨声；哨子",
       "summary_en": "A whistle is a clear, high sound made by blowing air, or a small device that makes that sound. To whistle is to produce it.",
@@ -3320,9 +4411,9 @@
       "title": "英语词汇学习主页",
       "kind": "page",
       "metadata": {
-        "status": "active",
         "type": "project",
-        "public_slug": "vocabulary"
+        "public_slug": "vocabulary",
+        "status": "active"
       },
       "summary_cn": "",
       "summary_en": "",
@@ -3333,9 +4424,9 @@
       "title": "词汇复习与应用",
       "kind": "page",
       "metadata": {
-        "status": "active",
         "type": "concept",
-        "public_slug": "vocabulary-review"
+        "public_slug": "vocabulary-review",
+        "status": "active"
       },
       "summary_cn": "",
       "summary_en": "",

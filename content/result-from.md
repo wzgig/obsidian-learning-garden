@@ -20,7 +20,7 @@
 
 ## 例句
 
-- **语境例句**：待补——原始批次未记录原句。
+- **真题语境**：已核对完整真题原句，见“来源与语境”的私有区块；公开站仅保留来源标签。
 - **原创例句 1**：The unstable output resulted from an incorrect parameter.
   中文：不稳定的输出源于一个错误参数。
 - **原创例句 2**：Many learning gaps result from reviewing without active recall.
@@ -40,7 +40,10 @@
 
 ## 来源与语境
 
-- 捕获批次：原始捕获
-- 原始形式：result from
-- 原句与出处：原始批次未记录原句；当前按常见因果短语整理。
+- 原卷：2026年全国硕士研究生招生考试英语（一）真题
+- 捕获批次：2026-07-21 生词与语境
+- 遇见 1：Section I / Use of English · 第16题 B 选项 · 干扰项 · 原题句 p.1 · 选项 p.2 · 卷面形式 `result from`
+
+
+- 公开边界：以上完整原句仅保留在私有 Vault；公开导出器会强制剥离该区块。
 - 参考：[Wiktionary](https://en.wiktionary.org/wiki/result_from) · [Merriam-Webster](https://www.merriam-webster.com/dictionary/result%20from)

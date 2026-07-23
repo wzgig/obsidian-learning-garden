@@ -21,7 +21,7 @@
 
 ## 例句
 
-- **语境例句**：待补——原始批次未记录原句。
+- **真题语境**：已核对完整真题原句，见“来源与语境”的私有区块；公开站仅保留来源标签。
 - **原创例句 1**：A truncated axis can distort the viewer's impression of the change.
   中文：截断的坐标轴会歪曲观众对变化幅度的印象。
 - **原创例句 2**：The damaged speaker distorted the recorded voice.
@@ -31,7 +31,7 @@
 
 - **阅读识别**：图表评价、媒体分析、音频图像和心理感知中常见。
 - **写作或口语**：事实和含义可被 distort；信号或图像则常被译为“失真”。
-- **易错点**：distorted 可能是过去式、过去分词或形容词；本批次无原句，词性待确认。
+- **易错点**：distorted 可能是过去式、过去分词或形容词；真题 distorted self-perception 中作形容词，表示“扭曲的自我认知”，不是谓语过去式。
 
 ## 主动回忆
 
@@ -41,7 +41,10 @@
 
 ## 来源与语境
 
-- 捕获批次：原始捕获
-- 原始形式：distorted
-- 原句与出处：原始批次未记录原句；具体是物理失真还是意义歪曲待补语境。
+- 原卷：2026年全国硕士研究生招生考试英语（一）真题
+- 捕获批次：2026-07-21 生词与语境
+- 遇见 1：Section I / Use of English · p.1 · 正文 · 关联空格 15/16 · 卷面形式 `distorted`
+
+
+- 公开边界：以上完整原句仅保留在私有 Vault；公开导出器会强制剥离该区块。
 - 参考：[Wiktionary](https://en.wiktionary.org/wiki/distort) · [Merriam-Webster](https://www.merriam-webster.com/dictionary/distort)

@@ -22,7 +22,7 @@
 
 ## 例句
 
-> 原始捕获没有保留完整句子，以下两句均为原创学习例句，不是原始出处。
+> 完整真题原句与位置见文末私有来源区块；以下两句仍为原创学习例句。
 
 - **原创例句 1**：The animals crossed the mountain through a narrow valley.\
   中文：这些动物穿过一条狭窄的山谷翻越了山地。
@@ -33,7 +33,7 @@
 
 - **阅读识别**：可描述空间、观点、胜负差距或研究范围。
 - **写作或口语**：narrow down 是常用短语，表示逐步减少选项。
-- **易错点**：narrow 不总是物理“窄”；a narrow view 是局限观点，a narrow victory 是险胜。没有原句时不能锁定义项。
+- **易错点**：narrow 不总是物理“窄”；真题 a narrow region 指范围较小的地理区域，a narrow view 表示局限的观点，a narrow victory 则是险胜。
 
 ## 主动回忆
 
@@ -43,7 +43,10 @@
 
 ## 来源与语境
 
-- 捕获批次：2026-07-21 生词记录
-- 原始形式：narrow
-- 原句与出处：原始批次只记录了词形，没有保存原句、文章标题或 URL；词性以及空间、范围或差距义待确认。
+- 原卷：2026年全国硕士研究生招生考试英语（一）真题
+- 捕获批次：2026-07-21 生词与语境
+- 遇见 1：Section II / Part A / Text 1 · p.3 · 正文 · 卷面形式 `narrow`
+
+
+- 公开边界：以上完整原句仅保留在私有 Vault；公开导出器会强制剥离该区块。
 - 参考：[Wiktionary](https://en.wiktionary.org/wiki/narrow) · [Merriam-Webster](https://www.merriam-webster.com/dictionary/narrow)

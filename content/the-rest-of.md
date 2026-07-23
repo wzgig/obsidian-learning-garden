@@ -20,7 +20,7 @@
 
 ## 例句
 
-> 原始捕获没有保留完整句子，以下两句均为原创学习例句，不是原始出处。
+> 完整真题原句与位置见文末私有来源区块；以下两句仍为原创学习例句。
 
 - **原创例句 1**：I reviewed ten cards in the morning and finished the rest of them at night.\
   中文：我早上复习了十张卡片，晚上完成了其余部分。
@@ -41,7 +41,10 @@
 
 ## 来源与语境
 
-- 捕获批次：2026-07-21 生词记录
-- 原始形式：the rest of
-- 原句与出处：原始批次只记录了短语，没有保存原句、文章标题或 URL；其后原本连接的对象待补。
+- 原卷：2026年全国硕士研究生招生考试英语（一）真题
+- 捕获批次：2026-07-21 生词与语境
+- 遇见 1：Section II / Part A / Text 1 · p.3 · 正文 · 卷面形式 `the rest of`
+
+
+- 公开边界：以上完整原句仅保留在私有 Vault；公开导出器会强制剥离该区块。
 - 参考：[Wiktionary](https://en.wiktionary.org/wiki/the_rest_of) · [Merriam-Webster](https://www.merriam-webster.com/dictionary/the%20rest%20of)

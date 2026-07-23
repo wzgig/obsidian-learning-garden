@@ -4,8 +4,8 @@
 > **/ˈkɑːnʃəsnəs/** · *n.* · 意识；对自身和周围环境的觉察
 > 遇见形式：`consciousness` → 原形名词；可能指清醒状态、意识体验或群体观念，具体义项待补
 
-> [!warning] 语境待补
-> 没有原句，无法判断 consciousness 是医学上的清醒状态、哲学上的主观意识，还是社会语境中的共同意识。
+> [!info] 真题语境已核验
+> 完整原句、卷面词形和页码见文末私有来源区块；词卡释义与原创例句用于学习，不替代原卷。
 
 ## 中文释义
 
@@ -43,7 +43,10 @@
 
 ## 来源与语境
 
-- 捕获批次：2026-07-21 生词记录
-- 原始形式：`consciousness`
-- 原句与出处：未记录；待下次遇见时补充，不根据单词清单伪造语境。
+- 原卷：2026年全国硕士研究生招生考试英语（一）真题
+- 捕获批次：2026-07-21 生词与语境
+- 遇见 1：Section II / Part A / Text 3 · p.7 · 正文 · 卷面形式 `consciousness`
+
+
+- 公开边界：以上完整原句仅保留在私有 Vault；公开导出器会强制剥离该区块。
 - 参考：[Wiktionary](https://en.wiktionary.org/wiki/consciousness) · [Merriam-Webster](https://www.merriam-webster.com/dictionary/consciousness)

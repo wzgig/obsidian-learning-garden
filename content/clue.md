@@ -21,7 +21,7 @@
 
 ## 例句
 
-- **语境例句**：待补——原始批次未记录原句。
+- **真题语境**：已核对完整真题原句，见“来源与语境”的私有区块；公开站仅保留来源标签。
 - **原创例句 1**：The sudden rise in temperature gave us a clue to the failure.
   中文：温度突然上升为我们判断故障原因提供了线索。
 - **原创例句 2**：Please clue me in before the project meeting starts.
@@ -41,7 +41,10 @@
 
 ## 来源与语境
 
-- 捕获批次：原始捕获
-- 原始形式：clue
-- 原句与出处：原始批次未记录原句；名词义与短语动词用法待结合真实语境确认。
+- 原卷：2026年全国硕士研究生招生考试英语（一）真题
+- 捕获批次：2026-07-21 生词与语境
+- 遇见 1：Section I / Use of English · 第3题 C 选项 · 干扰项 · 原题句 p.1 · 选项 p.2 · 卷面形式 `clue`
+
+
+- 公开边界：以上完整原句仅保留在私有 Vault；公开导出器会强制剥离该区块。
 - 参考：[Wiktionary](https://en.wiktionary.org/wiki/clue) · [Merriam-Webster](https://www.merriam-webster.com/dictionary/clue)

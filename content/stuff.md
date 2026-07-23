@@ -22,7 +22,7 @@
 
 ## 例句
 
-> 原始捕获没有保留完整句子，以下两句均为原创学习例句，不是原始出处。
+> 完整真题原句与位置见文末私有来源区块；以下两句仍为原创学习例句。
 
 - **原创例句 1**：I moved the important stuff to a clearly labeled folder.\
   中文：我把重要的东西移到了标注明确的文件夹中。
@@ -33,7 +33,7 @@
 
 - **阅读识别**：口语、访谈和非正式写作中非常常见。
 - **写作或口语**：口语可自然使用；正式论文中应换成更具体的 material、items、information 或 activities。
-- **易错点**：表示“东西”时通常不说 stuffs；原句缺失时也不能判断它是名词还是“塞满”这个动词。
+- **易错点**：真题 carrying stuff 中 stuff 作不可数名词，泛指“东西、物品”，通常不说 stuffs；此处不是动词“塞满”。
 
 ## 主动回忆
 
@@ -43,7 +43,10 @@
 
 ## 来源与语境
 
-- 捕获批次：2026-07-21 生词记录
-- 原始形式：stuff
-- 原句与出处：原始批次只记录了词形，没有保存原句、文章标题或 URL；名词、动词及具体所指均待确认。
+- 原卷：2026年全国硕士研究生招生考试英语（一）真题
+- 捕获批次：2026-07-21 生词与语境
+- 遇见 1：Section II / Part A / Text 1 · p.3 · 正文 · 卷面形式 `stuff`
+
+
+- 公开边界：以上完整原句仅保留在私有 Vault；公开导出器会强制剥离该区块。
 - 参考：[Wiktionary](https://en.wiktionary.org/wiki/stuff) · [Merriam-Webster](https://www.merriam-webster.com/dictionary/stuff)

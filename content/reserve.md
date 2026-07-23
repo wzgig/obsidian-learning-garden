@@ -21,7 +21,7 @@
 
 ## 例句
 
-- **语境例句**：待补——原始批次未记录原句。
+- **真题语境**：已核对完整真题原句，见“来源与语境”的私有区块；公开站仅保留来源标签。
 - **原创例句 1**：I reserved a quiet room for the online interview.
   中文：我为线上面试预订了一间安静的房间。
 - **原创例句 2**：Keep some battery capacity in reserve for unexpected loads.
@@ -31,7 +31,7 @@
 
 - **阅读识别**：常见于旅行预订、资源调度、法律声明和生态保护。
 - **写作或口语**：预订服务用 reserve；备用资源常用 keep something in reserve。
-- **易错点**：reserve、preserve、conserve 含义不同；本词多义，原始批次没有语境，不能断定当时义项。
+- **易错点**：reserve、preserve、conserve 含义不同；真题中 reserve 是第 10 题 C 项干扰项，表示“预留、预订”时不能与 facial features and skin conditions 构成合理搭配。
 
 ## 主动回忆
 
@@ -41,7 +41,10 @@
 
 ## 来源与语境
 
-- 捕获批次：原始捕获
-- 原始形式：reserve
-- 原句与出处：原始批次未记录原句；本卡仅列常见义，待补语境后确定重点义项。
+- 原卷：2026年全国硕士研究生招生考试英语（一）真题
+- 捕获批次：2026-07-21 生词与语境
+- 遇见 1：Section I / Use of English · 第10题 C 选项 · 干扰项 · 原题句 p.1 · 选项 p.2 · 卷面形式 `reserve`
+
+
+- 公开边界：以上完整原句仅保留在私有 Vault；公开导出器会强制剥离该区块。
 - 参考：[Wiktionary](https://en.wiktionary.org/wiki/reserve) · [Merriam-Webster](https://www.merriam-webster.com/dictionary/reserve)

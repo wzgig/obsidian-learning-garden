@@ -63,6 +63,15 @@ class PublicSiteBuildTests(unittest.TestCase):
                 "study_mode": "production",
                 "mastery": "new",
                 "context_status": "ready",
+                "zh_gloss": "公开中文检索释义",
+                "encounter_count": 3,
+                "lapse_count": 2,
+                "review_count": 4,
+                "review_priority": "high",
+                "priority_score": 7,
+                "first_seen": "2026-07-21",
+                "last_seen": "2026-07-23",
+                "next_review": "2026-07-24",
             },
         }
         self.write_manifest([self.valid_note])
@@ -117,6 +126,14 @@ class PublicSiteBuildTests(unittest.TestCase):
             (output / build.BUILD_MARKER_NAME).read_text(encoding="utf-8"),
             build.BUILD_MARKER_CONTENT,
         )
+        search_index = json.loads(
+            (output / "search-index.json").read_text(encoding="utf-8")
+        )
+        self.assertEqual(search_index[0]["encounter_count"], 3)
+        self.assertEqual(search_index[0]["lapse_count"], 2)
+        self.assertEqual(search_index[0]["priority_score"], 7)
+        self.assertEqual(search_index[0]["review_priority"], "high")
+        self.assertEqual(search_index[0]["zh_gloss"], "公开中文检索释义")
         combined = "\n".join(
             path.read_text(encoding="utf-8", errors="ignore")
             for path in output.rglob("*")
@@ -124,6 +141,83 @@ class PublicSiteBuildTests(unittest.TestCase):
         )
         for forbidden in ("GITHUB_PERSONAL_ACCESS_TOKEN", "PRIVATE KEY"):
             self.assertNotIn(forbidden, combined)
+
+    def test_private_source_context_is_removed_from_pages_and_search(self):
+        private_excerpt = "A private exam excerpt that must never be published."
+        (self.root / "content" / "vocabulary.md").write_text(
+            "# Vocabulary\n\n"
+            "A safe public explanation.\n\n"
+            f"{build.PRIVATE_CONTEXT_START}\n"
+            f"{private_excerpt}\n"
+            f"{build.PRIVATE_CONTEXT_END}\n\n"
+            "A safe learner-created example.\n",
+            encoding="utf-8",
+        )
+
+        output = self.root / "dist"
+        build.build_site(self.root, output, "/")
+        rendered = (output / "vocabulary.html").read_text(encoding="utf-8")
+        search = (output / "search-index.json").read_text(encoding="utf-8")
+
+        self.assertIn("safe public explanation", rendered.lower())
+        self.assertIn("safe learner created example", search.lower())
+        self.assertNotIn(private_excerpt, rendered)
+        self.assertNotIn(private_excerpt, search)
+        self.assertNotIn("PRIVATE-SOURCE-CONTEXT", rendered)
+        self.assertNotIn("PRIVATE-SOURCE-CONTEXT", search)
+
+    def test_unmatched_private_source_marker_fails_closed(self):
+        (self.root / "content" / "vocabulary.md").write_text(
+            f"# Vocabulary\n\n{build.PRIVATE_CONTEXT_START}\nprivate text\n",
+            encoding="utf-8",
+        )
+        with self.assertRaisesRegex(ValueError, "unmatched start marker"):
+            build.build_site(self.root, self.root / "dist", "/")
+
+    def test_priority_falls_back_to_hundred_point_score_when_label_is_missing(self):
+        cases = (
+            (29, "normal"),
+            (30, "watch"),
+            (60, "high"),
+            (80, "urgent"),
+        )
+        for score, expected in cases:
+            with self.subTest(score=score):
+                metrics = build._study_metrics(
+                    {
+                        "encounter_count": 2,
+                        "lapse_count": 1,
+                        "priority_score": score,
+                    }
+                )
+                self.assertEqual(metrics["priority_key"], expected)
+                self.assertTrue(metrics["is_repeat"])
+                self.assertTrue(metrics["has_lapse"])
+
+    def test_context_status_labels_are_localized(self):
+        self.assertEqual(
+            build._context_status_label({"context_status": "verified"}), "已核验"
+        )
+        self.assertEqual(
+            build._context_status_label({"context_status": "source_mismatch"}),
+            "来源待核",
+        )
+
+    def test_obsidian_callout_header_becomes_readable_commonmark(self):
+        markdown = "> [!summary] 一眼记住\n> A compact explanation.\n"
+        normalized = build.normalize_obsidian_callouts(markdown)
+        self.assertIn("> **一眼记住**", normalized)
+        self.assertNotIn("[!summary]", normalized)
+
+    def test_matching_leading_title_is_removed_before_rendering(self):
+        markdown = "# Vocabulary\n\n## 中文释义\n\nA safe definition.\n"
+        stripped = build.strip_matching_leading_heading(markdown, "Vocabulary")
+        self.assertTrue(stripped.startswith("## 中文释义"))
+        self.assertNotIn("# Vocabulary", stripped)
+        self.assertEqual(
+            build.strip_matching_leading_heading(markdown, "Different title"),
+            markdown,
+        )
 
     def test_external_temporary_output_is_allowed(self):
         output = self.workspace / "external-build"

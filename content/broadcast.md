@@ -4,8 +4,8 @@
 > **/ˈbrɔːdkæst/** · *v. / n. / adj.* · 广播；播送；广泛传播
 > 遇见形式：`broadcasting` → 遇见形式为 -ing；可能是进行时、动名词或名词 broadcasting
 
-> [!warning] 语境待补
-> 原始形式为 broadcasting。没有原句，无法判断它描述正在播送，还是广播行业或广播活动本身。
+> [!info] 真题语境已核验
+> 完整原句、卷面词形和页码见文末私有来源区块；词卡释义与原创例句用于学习，不替代原卷。
 
 ## 中文释义
 
@@ -43,7 +43,10 @@
 
 ## 来源与语境
 
-- 捕获批次：2026-07-21 生词记录
-- 原始形式：`broadcasting`
-- 原句与出处：未记录；待下次遇见时补充，不根据单词清单伪造语境。
+- 原卷：2026年全国硕士研究生招生考试英语（一）真题
+- 捕获批次：2026-07-21 生词与语境
+- 遇见 1：Section II / Part A / Text 3 · p.7 · 正文 · 卷面形式 `broadcasting`
+
+
+- 公开边界：以上完整原句仅保留在私有 Vault；公开导出器会强制剥离该区块。
 - 参考：[Wiktionary](https://en.wiktionary.org/wiki/broadcast) · [Merriam-Webster](https://www.merriam-webster.com/dictionary/broadcast)
